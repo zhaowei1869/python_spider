@@ -1,0 +1,13 @@
+dev:
+    image: zhihu_spider
+
+    volumes:
+        - ./:/zhihu_spider
+        - ../data:/data/db
+    ports:
+        - "20000:27017"
+        - "20001:15672"
+    privileged: true
+    tty: true
+    stdin_open: true
+    restart: always
