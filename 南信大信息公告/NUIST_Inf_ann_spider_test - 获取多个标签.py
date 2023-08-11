@@ -169,7 +169,7 @@ if __name__ == '__main__':
     print("first Proxies", proxies)
     all_pages = get_total_page(cookies, headers, proxies)
     print('all_pages', all_pages)
-    for i in range(115, 299):  # 77
+    for i in range(120, 299):  # 77
         get_page(i)
         # 随机休息6-10秒
         t = random.randint(6, 10)
