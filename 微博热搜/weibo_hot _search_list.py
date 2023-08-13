@@ -33,7 +33,7 @@ def get_hot_search_list_page(proxies, cookies, headers):
             f.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
         if response.json().get('data') and response.status_code == 200:
             realtime_list = response.json()['data']['realtime']
-            print('realtime_list', realtime_list)
+            # print('realtime_list', realtime_list)
             for realtime in realtime_list:
                 # print(realtime)
                 try:
