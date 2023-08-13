@@ -150,7 +150,7 @@ if __name__ == '__main__':
     proxies = get_valid_proxy()
     while True:
         get_hot_search_list_page(proxies, cookies, headers)
-        time.sleep(10)  # 等待10秒后再次爬取
+        time.sleep(600)  # 等待10秒后再次爬取
     '''while True:
         current_time = datetime.now()
         if current_time.minute == 0 and current_time.second == 0:  # 在整点时运行程序
