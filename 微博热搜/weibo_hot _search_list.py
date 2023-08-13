@@ -28,7 +28,7 @@ def get_hot_search_list_page(proxies, cookies, headers):
         response = get_page_with_retry(url_hot_search_list, cookies, headers, proxies)
 
         current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")  # 当前时间
-        with open(f'data.csv', 'a', encoding='utf-8') as f:
+        with open(f'weibo_hot_search_list_data.csv', 'a', encoding='utf-8') as f:
             f.write(f'当前时间:{current_time}\n')
             f.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
         if response.json().get('data') and response.status_code == 200:
@@ -72,7 +72,7 @@ def get_hot_search_list_page(proxies, cookies, headers):
                 # 排名 微博内容 类别 微博链接 微博id 热度 raw_hot
 
                 # 写入csv文件
-                with open(f'data.csv', 'a', encoding='utf-8') as f:
+                with open(f'weibo_hot_search_list_data.csv', 'a', encoding='utf-8') as f:
                     f.write(f'{rank},{note},{category},{url_info},{mid},{num},{raw_hot}\n')
 
                 # 写入Redis
@@ -150,7 +150,7 @@ if __name__ == '__main__':
     proxies = get_valid_proxy()
     while True:
         get_hot_search_list_page(proxies, cookies, headers)
-        time.sleep(10)  # 等待10秒后再次爬取
+        time.sleep(10)  # 等待10秒后再次爬取  43200s=12h
     '''while True:
         current_time = datetime.now()
         if current_time.minute == 0 and current_time.second == 0:  # 在整点时运行程序
