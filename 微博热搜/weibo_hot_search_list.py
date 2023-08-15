@@ -37,7 +37,7 @@ def get_hot_search_page(proxies, cookies, headers):
             os.makedirs(folder_path, exist_ok=True)'''
 
             with open(f'./data/{current_day}/weibo_hot_search{current_time}.md', 'a', encoding='utf-8') as file:
-                file.write(f'## {current_time}  微博热搜榜\n\n')   # file.write('## 二级标题\n\n')
+                file.write(f'#### {current_time}  微博热搜榜\n\n')   # file.write('## 二级标题\n\n')
                 # file.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
                 # file.write(f'| 排名 | 微博内容 | 类别 | 微博链接 | 微博id | 热度 | raw_hot |\n')
                 file.write('| 排名 | 微博内容 | 类别 |\n')
@@ -135,7 +135,7 @@ def get_topic_band(proxies, cookies, headers):
         f.write(f'排名,话题,导语,类别,话题链接,话题主持人,阅读,讨论,微博id\n')
 
     with open(f'./data/{current_day}/weibo_hot_search{current_time}.md', 'a', encoding='utf-8') as file:
-        file.write(f'## {current_time}  微博话题榜\n\n')  # file.write('## 二级标题\n\n')
+        file.write(f'#### {current_time}  微博话题榜\n\n')  # file.write('## 二级标题\n\n')
         # file.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
         # file.write(f'| 排名 | 微博内容 | 类别 | 微博链接 | 微博id | 热度 | raw_hot |\n')
         file.write('| 排名 | 微博话题 | 类别 |\n')
@@ -254,7 +254,7 @@ def get_news(proxies, cookies, headers):
             f.write(f'排名,话题,类别,话题链接,话题主持人,阅读,讨论\n')
 
         with open(f'./data/{current_day}/weibo_hot_search{current_time}.md', 'a', encoding='utf-8') as file:
-            file.write(f'## {current_time}  微博要闻榜\n\n')  # file.write('## 二级标题\n\n')
+            file.write(f'#### {current_time}  微博要闻榜\n\n')  # file.write('## 二级标题\n\n')
             # file.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
             # file.write(f'| 排名 | 微博内容 | 类别 | 微博链接 | 微博id | 热度 | raw_hot |\n')
             file.write('| 排名 | 微博要闻 | 类别 |\n')
