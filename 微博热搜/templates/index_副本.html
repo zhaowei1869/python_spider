@@ -1,0 +1,82 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Data Pagination Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        .data-list {
+            list-style: none;
+            padding: 0;
+        }
+        .data-list-item {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+            display: none;  /* Initially hide all data-list-items */
+        }
+        .data-item {
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            padding: 5px;
+            margin: 5px;
+        }
+        .url-link {
+            color: #007bff;
+            text-decoration: underline;
+        }
+        .pagination {
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        $(document).ready(function() {
+            var currentPage = 0;
+            var dataLists = $('.data-list-item');
+
+            dataLists.eq(currentPage).show();
+
+            $('.next-btn').click(function() {
+                dataLists.eq(currentPage).hide();
+                currentPage = (currentPage + 1) % dataLists.length;
+                dataLists.eq(currentPage).show();
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>微博热搜榜</h1>
+    <div class="pagination">
+        <button class="next-btn">下一页</button>
+    </div>
+    <div class="data-list">
+        {% for data_list in data_lists %}
+            <div class="data-list-item">
+                {% for item in data_list %}
+                    <div class="data-item">
+                            <strong>热度排名:</strong> {{ item.key }}
+    <!--            <strong>note:</strong> {{ item.data_dict.note }}<br>-->
+                            <strong> :</strong> <a class="url-link" href="{{ item.data_dict.url_info }}" target="_blank">{{ item.data_dict.note }}</a>
+                            <strong>类别:</strong> {{ item.data_dict.category }} <br>
+
+    <!--            <strong>url_info:</strong> {{ item.data_dict.url_info }}<br>-->
+    <!--            <strong>url_info:</strong> <a class="url-link" href="{{ item.data_dict.url_info }}" target="_blank">{{ item.data_dict.url_info }}</a><br>-->
+    <!--            <strong>data_dict:</strong> {{ item.data_dict }}<br>-->
+                        </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+    <div class="pagination">
+        <button class="next-btn">下一页</button>
+    </div>
+</body>
+</html>
