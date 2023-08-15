@@ -20,14 +20,37 @@ def get_valid_proxy(max_retries=7):
         {"http": "https://49.70.89.186:8089"},
         {"http": "https://140.210.196.193:6969"},
         {"http": "https://51.159.66.223:80"},
+        # {"http": "https://218.91.127.220:8089", "https": "https://218.91.127.220:8089"},
+        # {"http": "https://47.113.224.182:9999", "https": "https://47.113.224.182:9999"},
+        # {"http": "https://5.161.93.162", "https": "https://5.161.93.162"},
+        # {"http": "https://60.174.1.63:8089", "https": "https://60.174.1.63:8089"},
+        # {"http": "https://114.103.80.183:8089", "https": "https://114.103.80.183:8089"},
+        # {"http": "https://183.236.232.160:8080", "https": "https://183.236.232.160:8080"},
+        # {"http": "https://49.70.89.186:8089", "https": "https://49.70.89.186:8089"},
+        # {"http": "https://140.210.196.193:6969", "https": "https://140.210.196.193:6969"},
+        # {"http": "https://51.159.66.223:80", "https": "https://51.159.66.223:80"},
+        # {"http": "218.91.127.220:8089", "https": "218.91.127.220:8089"},
+        # {"http": "47.113.224.182:9999", "https": "47.113.224.182:9999"},
+        # {"http": "5.161.93.162", "https": "5.161.93.162"},
+        # {"http": "60.174.1.63:8089", "https": "60.174.1.63:8089"},
+        # {"http": "114.103.80.183:8089", "https": "114.103.80.183:8089"},
+        # {"http": "183.236.232.160:8080", "https": "183.236.232.160:8080"},
+        # {"http": "49.70.89.186:8089", "https": "49.70.89.186:8089"},
+        # {"http": "140.210.196.193:6969", "https": "140.210.196.193:6969"},
+        # {"http": "51.159.66.223:80", "https": "51.159.66.223:80"},
 
         # 添加更多代理地址...
     ]
 
-    for _ in range(max_retries):
-        # 随机选择一个代理地址
-        selected_proxy = random.choice(proxy_list)
-        print("随机选择的代理地址:", selected_proxy)
+    for retries in range(max_retries):
+        # 第一次请求为电脑开启代理的情况下，后续请求为随机选择代理地址
+        if retries == 0:
+            # 选择第一个代理地址:在电脑开启代理的情况下
+            selected_proxy = {'http': '127.0.0.1:7078', 'https': '127.0.0.1:7078'}
+        else:
+            # 随机选择一个代理地址
+            selected_proxy = random.choice(proxy_list)
+            print("随机选择的代理地址:", selected_proxy)
 
         # 构建代理字典
         proxies = selected_proxy
@@ -39,6 +62,7 @@ def get_valid_proxy(max_retries=7):
 
             # 检查响应状态码
             if response.status_code == 200:
+                # print(f"代理 {selected_proxy} 有效，IP 地址为:", response.json()["origin"])
                 print(f"代理 {selected_proxy} 有效，IP 地址为:", response.json()["origin"])
                 return selected_proxy  # 返回有效的代理地址，退出函数
             else:
