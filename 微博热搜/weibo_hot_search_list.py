@@ -461,9 +461,9 @@ if __name__ == '__main__':
         current_time = datetime.now().strftime("%Y-%m-%d_%H-%M")  # 当前时间  ("%Y-%m-%d_%H-%M-%S")
         current_day = datetime.now().strftime("%Y-%m-%d")  # 当前日期
 
-        '''# 创建文件夹（如果不存在）
+        # 创建文件夹（如果不存在）
         folder_path = f'./data/{current_day}'
-        os.makedirs(folder_path, exist_ok=True)'''
+        os.makedirs(folder_path, exist_ok=True)
 
         get_hot_search_page(proxies, cookies, headers)  # 获取热搜榜页面数据
         get_topic_band(proxies, cookies, headers)  # 获取话题榜页面数据
