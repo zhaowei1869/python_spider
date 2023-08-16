@@ -11,8 +11,8 @@ from tools import get_valid_proxy, get_page_with_retry
 
 
 # host是redis主机，需要redis服务端和客户端都启动 redis默认端口是6379
-r = redis.Redis(host='localhost', port=6379, decode_responses=True, db=1)
-
+'''r = redis.Redis(host='localhost', port=6379, decode_responses=True, db=1)
+'''
 # 获取热搜榜页面数据
 def get_hot_search_list_page(proxies, cookies, headers):
     url_hot_search_list = f'https://weibo.com/ajax/side/hotSearch'  # 微博热搜榜
@@ -28,7 +28,7 @@ def get_hot_search_list_page(proxies, cookies, headers):
         response = get_page_with_retry(url_hot_search_list, cookies, headers, proxies)
 
         current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")  # 当前时间
-        with open(f'weibo_hot_search_list_data.csv', 'a', encoding='utf-8') as f:
+        with open(f'微博热搜/weibo_hot_search_data.csv', 'a', encoding='utf-8') as f:
             f.write(f'当前时间:{current_time}\n')
             f.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
         if response.json().get('data') and response.status_code == 200:
@@ -72,10 +72,10 @@ def get_hot_search_list_page(proxies, cookies, headers):
                 # 排名 微博内容 类别 微博链接 微博id 热度 raw_hot
 
                 # 写入csv文件
-                with open(f'weibo_hot_search_list_data.csv', 'a', encoding='utf-8') as f:
+                with open(f'微博热搜/weibo_hot_search_data.csv', 'a', encoding='utf-8') as f:  # 微博热搜
                     f.write(f'{rank},{note},{category},{url_info},{mid},{num},{raw_hot}\n')
 
-                # 写入Redis
+                '''# 写入Redis
                 dict_hot_search = {
                     'rank': rank,
                     'note': note,
@@ -96,7 +96,7 @@ def get_hot_search_list_page(proxies, cookies, headers):
                 r.hsetnx('weibo_hot_search_list:list', idkey, json_data)  # 使用hsetnx不覆盖已存在字段
 
                 # r.hmset('weibo_hot_search_list:list', dict_hot_search)  # 每个热搜有独立的键
-                # print(dict_hot_search)  # print(f"Data for rank {rank} stored in Redis.")
+                # print(dict_hot_search)  # print(f"Data for rank {rank} stored in Redis.")'''
 
                 """# # 写数据到Redis
                 idkey = 'rank' + str(rank)  # 键名
@@ -150,7 +150,7 @@ if __name__ == '__main__':
     proxies = get_valid_proxy()
     while True:
         get_hot_search_list_page(proxies, cookies, headers)
-        time.sleep(10)  # 等待10秒后再次爬取  43200s=12h
+        time.sleep(600)  # 等待10秒后再次爬取
     '''while True:
         current_time = datetime.now()
         if current_time.minute == 0 and current_time.second == 0:  # 在整点时运行程序
