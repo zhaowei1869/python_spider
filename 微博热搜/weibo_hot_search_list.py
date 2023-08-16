@@ -7,6 +7,8 @@ from urllib import parse
 import redis
 import os
 
+import requests
+from bs4 import BeautifulSoup
 
 sys.path.append(r"E:\代码学习\python_spider\A工具函数")
 from tools import get_valid_proxy, get_page_with_retry
@@ -28,7 +30,7 @@ def get_hot_search_page(proxies, cookies, headers):
         if response.json().get('data') and response.status_code == 200:
             realtime_list = response.json()['data']['realtime']
 
-            with open(f'weibo_hot_search_data.csv', 'a', encoding='utf-8') as f:
+            with open(f'./data/weibo_hot_search_data.csv', 'a', encoding='utf-8') as f:
                 f.write(f'{current_time}  微博热搜榜\n\n')
                 f.write(f'排名,微博内容,类别,微博id,热度\n')
 
@@ -84,7 +86,7 @@ def get_hot_search_page(proxies, cookies, headers):
                 # 排名 微博内容 类别 微博链接 微博id 热度 raw_hot
 
                 # 写入csv文件
-                with open(f'weibo_hot_search_data.csv', 'a', encoding='utf-8') as f:
+                with open(f'./data/weibo_hot_search_data.csv', 'a', encoding='utf-8') as f:
                     f.write(f'{rank},{note},{category},{url_info},{mid},{num},{raw_hot}\n')
 
                 # with open('weibo_hot_search_data.md', 'a', encoding='utf-8') as file:
@@ -130,7 +132,7 @@ def get_topic_band(proxies, cookies, headers):
     # r_topic_band = redis.Redis(host='localhost', port=6379, decode_responses=True, db=1)
 
     # current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")  # 当前时间
-    with open(f'weibo_topic_band_data.csv', 'a', encoding='utf-8') as f:
+    with open(f'./data/weibo_topic_band_data.csv', 'a', encoding='utf-8') as f:
         f.write(f'当前时间:{current_time}\n')
         f.write(f'排名,话题,导语,类别,话题链接,话题主持人,阅读,讨论,微博id\n')
 
@@ -200,7 +202,7 @@ def get_topic_band(proxies, cookies, headers):
                     # 排名 话题 类别 话题链接 话题主持人 阅读 讨论 微博id
 
                     # 写入csv文件
-                    with open(f'weibo_topic_band_data.csv', 'a', encoding='utf-8') as f:
+                    with open(f'./data/weibo_topic_band_data.csv', 'a', encoding='utf-8') as f:
                         f.write(f'{rank},{topic},{category},{topic_url},{claim},{read},{mention},{mid}\n')
 
                     with open(f'./data/{current_day}/weibo_hot_search{current_time}.md', 'a', encoding='utf-8') as file:
@@ -249,7 +251,7 @@ def get_news(proxies, cookies, headers):
         response = get_page_with_retry(url_news, cookies, headers, proxies)
 
         # current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")  # 当前时间
-        with open(f'weibo_news_band_data.csv', 'a', encoding='utf-8') as f:
+        with open(f'./data/weibo_news_band_data.csv', 'a', encoding='utf-8') as f:
             f.write(f'当前时间:{current_time}\n')
             f.write(f'排名,话题,类别,话题链接,话题主持人,阅读,讨论\n')
 
@@ -315,7 +317,7 @@ def get_news(proxies, cookies, headers):
                 # 排名 话题 类别 话题链接 话题主持人 阅读 讨论
 
                 # 写入csv文件
-                with open(f'weibo_news_band_data.csv', 'a', encoding='utf-8') as f:
+                with open(f'./data/weibo_news_band_data.csv', 'a', encoding='utf-8') as f:
                     f.write(f'{rank},{topic},{category},{news_url},{claim},{read},{mention}\n')
 
                 with open(f'./data/{current_day}/weibo_hot_search{current_time}.md', 'a', encoding='utf-8') as file:
@@ -350,6 +352,72 @@ def get_news(proxies, cookies, headers):
         print("An error occurred:", e)
     print('\n')
 ########################################################################################################################
+
+
+# 获取IT之家数据   ###################################################################################################
+def get_it_home(proxies):
+    url_news = f'https://www.ithome.com/'
+    print('\n', 'IT之家请求数据页面：', url_news)
+    try:
+        response = requests.get(url_news, proxies=proxies, timeout=20)
+        print('响应状态码：', response.status_code)
+
+        html = response.content
+        soup = BeautifulSoup(html, 'html.parser')
+        print(soup)
+
+        with open(f'./data/it_home_day_band_data.csv', 'w', encoding='utf-8') as f:
+            f.write(f'当前时间:{current_time}\n排名,标题,标题链接\n')
+            # f.write(f'排名,标题,标题链接\n')
+
+        with open(f'./data/{current_day}/it_home_day_band_data{current_day}.md', 'w', encoding='utf-8') as file:
+            file.write(f'#### {current_time}  IT之家日榜\n\n| 排名 | 标题|\n| --- | ---|\n')  # file.write('## 二级标题\n\n')
+            # file.write(f'排名,微博内容,类别,微博链接,微博id,热度,raw_hot\n')
+            # file.write(f'| 排名 | 微博内容 | 类别 | 微博链接 | 微博id | 热度 | raw_hot |\n')
+            # file.write('| 排名 | 标题|\n')
+            # file.write('| --- | ---|\n')
+
+        key = current_day + '_rank'  # 键名
+        r.hset('it_home_day_band:key', key, key)
+
+        if response.status_code == 200:
+            parent_container = soup.find('ul', {'class': 'bd order sel'})
+
+            # Find all <li> elements within the parent container
+            news_items = parent_container.find_all('li')
+            # for news_item in news_items:
+            for rank, news_item in enumerate(news_items):
+                title = news_item.find('a').get('title')  # 标题
+                href = news_item.find('a').get('href')  # 链接
+                print(rank, title, href)
+
+                # 写入csv文件
+                with open(f'./data/it_home_day_band_data.csv', 'a', encoding='utf-8') as f:
+                    f.write(f'{rank+1},{title},{href}\n')
+
+                with open(f'./data/{current_day}/it_home_day_band_data{current_day}.md', 'a', encoding='utf-8') as file:
+                    # file.write(f'| {rank} | {note} | {category} | {url_info} | {mid} | {num} | {raw_hot} |\n')
+                    # 将微博链接作为超链接写入文件
+                    # file.write(f'| 排名 | {rank} | [{note}]({url_info}) | {category} | {mid} | {num} | {raw_hot} |\n')
+                    file.write(f'| {rank+1} | [{title}]({href}) |\n')
+
+                    # 写入Redis
+                    dict_hot_search = {
+                        'rank': rank,
+                        'title': title,
+                        'href': href,
+                    }
+                    dict_hot_search = {key: str(value) for key, value in dict_hot_search.items()}
+                    # json_data = json.dumps(dict_hot_search)  # 将字典转换为JSON字符串并存储到Redis的同一个Hash表中   # 将字典转换为JSON字符串并编码为字节序列
+                    json_data = json.dumps(dict_hot_search, ensure_ascii=False).encode('utf-8')
+
+                    idkey = current_day + '_rank' + str(rank)  # 键名
+                    # r.hset('weibo_hot_search_list:list', idkey, json_data)
+                    r.hsetnx('it_home_day_band:list', idkey, json_data)  # 使用hsetnx不覆盖已存在字段
+        f.close()
+    except Exception as e:
+        print("An error occurred:", e)
+    print('\n')
 
 
 if __name__ == '__main__':
@@ -393,13 +461,14 @@ if __name__ == '__main__':
         current_time = datetime.now().strftime("%Y-%m-%d_%H-%M")  # 当前时间  ("%Y-%m-%d_%H-%M-%S")
         current_day = datetime.now().strftime("%Y-%m-%d")  # 当前日期
 
-        # 创建文件夹（如果不存在）
+        '''# 创建文件夹（如果不存在）
         folder_path = f'./data/{current_day}'
-        os.makedirs(folder_path, exist_ok=True)
+        os.makedirs(folder_path, exist_ok=True)'''
 
-        get_hot_search_page(proxies, cookies, headers)
-        get_topic_band(proxies, cookies, headers)
-        get_news(proxies, cookies, headers)
+        get_hot_search_page(proxies, cookies, headers)  # 获取热搜榜页面数据
+        get_topic_band(proxies, cookies, headers)  # 获取话题榜页面数据
+        get_news(proxies, cookies, headers)  # 获取要闻榜页面数据
+        get_it_home(proxies)  # 获取IT之家页面日榜数据
         break
         '''print('等待6h后再次爬取')
         time.sleep(3600*6)  # 等待10秒后再次爬取  43200s=12h'''
