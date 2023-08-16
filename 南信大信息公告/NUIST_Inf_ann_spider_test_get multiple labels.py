@@ -1,4 +1,8 @@
+# coding=utf-8
+
 """
+    共获取14864条公告
+    所需时间较长，中间可能请求失败
     示例数据：
     正在爬取第1页
     中国气象局人事司致南京信息工程大学的感谢信,2023-08-10,党政事务,党委办公室、校长办公室、保密办公室（督查办公室）,https://client.vpn.nuist.edu.cn/https/webvpn2ed9b9d0d8f4605e927e12405d4aac6bacb1d0129bab1534677e8c3ee143f76a/2023/0810/c791a227087/page.htm,  ,
@@ -53,7 +57,6 @@
     关于揽江楼西北侧和文园12栋南侧区域封闭施工的通知,2023-08-02,其他,总务处（后勤服务总公司）,https://client.vpn.nuist.edu.cn/https/webvpn2ed9b9d0d8f4605e927e12405d4aac6bacb1d0129bab1534677e8c3ee143f76a/2023/0802/c791a226919/page.htm,全校师生：因揽江楼空调室外管线和北燃西北能源站换热改造施工，为确保施工安全，将于7月31日起对揽江楼西北侧局部区域、文园12栋南侧区域进行临时围挡（详见下图红线），围挡封闭时间约30天。在此期间，揽江楼西北侧阶梯暂停使用，自行车暂时不能停放。造成不便，请予谅解！施工单位现场负责人：赵工13521128757；学校联系人：李宁15951788790。揽江楼西北侧围挡区域文园12栋南侧围挡区域总务处（后勤服务总公司）2023年7月31日      ,
 
 """
-
 import datetime
 import random
 import time
@@ -136,31 +139,41 @@ def get_page(i):
     for news_item in news_items:
         # print('news_item', news_item)
         leibie = news_item.find('span', class_='wjj').find('a').get('title')
+        xuh = news_item.find('span', class_='xuh').text.strip()  # 去除文本换行符,该页第几条公告
         title = news_item.find('span', class_='btt').find('a').get('title')
-        href = 'https://client.vpn.nuist.edu.cn' + news_item.find('span', class_='btt').find('a').get('href')
+        href = 'https://client.vpn.nuist.edu.cn' + news_item.find('span', class_='btt').find('a').get(
+            'href')  # 公告链接,有个别链接是一个pdf文件：https://client.vpn.nuist.edu.cn/https/webvpn2ed9b9d0d8f4605e927e12405d4aac6bacb1d0129bab1534677e8c3ee143f76a/_upload/article/files/26/5b/2154ede643c1a7d4db4b7427680b/34f85d99-d2a1-44b5-b9c4-b966d54799e3.pdf
         organization = news_item.find('span', class_='news_org').text.strip()
         date = news_item.find('span', class_='news_date').find('span', class_='arti_bs').text.strip()
         visit_count = news_item.find('span', class_='wp_listVisitCount').text.strip()
+        try:
+            # 获取网页内容
+            # response = requests.get(href, cookies=cookies, headers=headers, proxies=proxies)
+            response = get_page_with_retry(href, cookies, headers, proxies)  # 防止一次请求会失败：若第一次请求失败，则进行多次请求尝试
+            html = response.content
+            soup = BeautifulSoup(html, 'html.parser')
+            # 找到class为"wp_articlecontent"的<div>标签，并提取其中的<p>标签的内容
+            div_tag = soup.find('div', {'class': 'wp_articlecontent'})
+            # 去除文本中的空格和换行
+            p_tags = div_tag.find_all('p')  # 找到所有<p>标签 # <class 'bs4.element.ResultSet'># p_tags = div_tag.find_all('p')
 
-        # 获取网页内容
-        response = requests.get(href, cookies=cookies, headers=headers, proxies=proxies)
-        html = response.content
-        soup = BeautifulSoup(html, 'html.parser')
-        # 找到class为"wp_articlecontent"的<div>标签，并提取其中的<p>标签的内容
-        div_tag = soup.find('div', {'class': 'wp_articlecontent'})
-        # 去除文本中的空格和换行
-        p_tags = div_tag.find_all('p')  # 找到所有<p>标签 # <class 'bs4.element.ResultSet'># p_tags = div_tag.find_all('p')
+            # 将多个<p>标签的文本内容连接在一起，并用换行隔开每个<p>标签的文本内容
+            text = ''  # 初始化text为空字符串
+            for p_tag in p_tags:  # 遍历所有<p>标签
+                text += p_tag.text.strip()  # 连接在一起.去除文本换行符
 
-        # 将多个<p>标签的文本内容连接在一起，并用换行隔开每个<p>标签的文本内容
-        text = ''  # 初始化text为空字符串
-        for p_tag in p_tags:  # 遍历所有<p>标签
-            text += p_tag.text.strip()  # 连接在一起.去除文本换行符
+            print(xuh, title, date, leibie, organization, visit_count, href, text)
 
-        print(title, date, leibie, organization, visit_count, href, text)
-
-        # 内容p_tags保存到csv文件中,保存在一行中
-        with open(f'data{current_time}.csv', 'a', encoding='utf-8') as f:
-            f.write(title + ',' + date + ',' + leibie + ',' + organization + ',' + visit_count + ',' + href + ',' + text + ',' + '\n')
+            # 内容p_tags保存到csv文件中,保存在一行中
+            with open(f'data{current_time}.csv', 'a', encoding='utf-8') as f:
+                f.write(xuh + ',' + title + ',' + date + ',' + leibie + ',' + organization + ',' + visit_count + ',' + href + ',' + text + ',' + '\n')
+        except:
+            print(xuh, title, date, leibie, organization, visit_count, href)
+            with open(f'data{current_time}.csv', 'a', encoding='utf-8') as f:
+                f.write(xuh + ',' + title + ',' + date + ',' + leibie + ',' + organization + ',' + visit_count + ',' + href + ',' + '\n')
+            with open(f'data{current_time}_log.csv', 'a', encoding='utf-8') as f:
+                f.write('第' + str(i) + '页' + '第' + str(xuh) + '条公告详情无法获取' + ',' + href + ',' + 'AttributeError' + '\n')
+            continue
 
     print('保存成功！')
 
@@ -193,6 +206,33 @@ def get_total_page(cookies, headers, proxies):
 
 if __name__ == '__main__':
 
+    # cookies = {
+    #     'Hm_lvt_6e967eb120601ea41b9d312166416aa6': '1670370694,1670478582,1672845478',
+    #     '_gcl_au': '1.1.1025394217.1688718739',
+    #     '_hjSessionUser_864760': 'eyJpZCI6IjhhZWQ2YzYwLWVlM2YtNTBlYy1iOTcxLTU4MTcwOTYyZTMzNyIsImNyZWF0ZWQiOjE2ODg3MTg3NDAyODMsImV4aXN0aW5nIjp0cnVlfQ==',
+    #     '_ga': 'GA1.3.589669986.1688718739',
+    #     '_ga_4819PJ6HEN': 'GS1.1.1688718739.1.1.1688718812.0.0.0',
+    #     '_ga_0HYE8YG0M6': 'GS1.1.1688718739.1.1.1688718812.0.0.0',
+    #     'ENSSESSIONID': 'ZDlmYzVlNjQtZWY5Ni00MDZmLThjODYtYWNkNTgxZDI0MGU1',
+    #     'iPlanetDirectoryPro': 'pjMdIk3TNYqIZaBYILtcdsOrpD3pnUqL',
+    #     'clientInfo': 'eyJ1c2VybmFtZSI6IjIwMjIxMjI0MDA0MSIsInVzZXJJZCI6IjI3MTAyZmI0ODY4NjQ0NDNhMTIxNjc1MGIzOTk2Njk4IiwibG9naW5LZXkiOiJ5N3BCdEZsWE04aDk1WExmIiwic2lkIjoiZDlmYzVlNjQtZWY5Ni00MDZmLThjODYtYWNkNTgxZDI0MGU1In0=',
+    #     'GUESTSESSIONID': 'NzMwZTYzYmMtZTIxMS00NGQzLTk2MmUtOWRiMTYwZDM2NGM4',
+    #     'vpn_timestamp': '1691791942',
+    # }
+    # cookies = {
+    #     'Hm_lvt_6e967eb120601ea41b9d312166416aa6': '1670370694,1670478582,1672845478',
+    #     '_gcl_au': '1.1.1025394217.1688718739',
+    #     '_hjSessionUser_864760': 'eyJpZCI6IjhhZWQ2YzYwLWVlM2YtNTBlYy1iOTcxLTU4MTcwOTYyZTMzNyIsImNyZWF0ZWQiOjE2ODg3MTg3NDAyODMsImV4aXN0aW5nIjp0cnVlfQ==',
+    #     '_ga': 'GA1.3.589669986.1688718739',
+    #     '_ga_4819PJ6HEN': 'GS1.1.1688718739.1.1.1688718812.0.0.0',
+    #     '_ga_0HYE8YG0M6': 'GS1.1.1688718739.1.1.1688718812.0.0.0',
+    #     'ENSSESSIONID': 'YjgxN2Y0MGYtOGQwNy00NDcyLTk5NGQtYWQwZmJmMjdhZTVl',
+    #     'iPlanetDirectoryPro': 'pbtjI6SdRIadPsntgFLHn64ExdQutscJ',
+    #     'clientInfo': 'eyJ1c2VybmFtZSI6IjIwMjIxMjI0MDA0MSIsInVzZXJJZCI6IjI3MTAyZmI0ODY4NjQ0NDNhMTIxNjc1MGIzOTk2Njk4IiwibG9naW5LZXkiOiJyNU5RQUE2SFB2dDlhVmFJIiwic2lkIjoiYjgxN2Y0MGYtOGQwNy00NDcyLTk5NGQtYWQwZmJmMjdhZTVlIn0=',
+    #     'GUESTSESSIONID': 'MzYyM2M4ODMtNmZhYi00NGEyLWIzOWQtZGFiMDU2YjRjYmFk',
+    #     'vpn_timestamp': '1691884512',
+    # }
+
     cookies = {
         'Hm_lvt_6e967eb120601ea41b9d312166416aa6': '1670370694,1670478582,1672845478',
         '_gcl_au': '1.1.1025394217.1688718739',
@@ -200,11 +240,11 @@ if __name__ == '__main__':
         '_ga': 'GA1.3.589669986.1688718739',
         '_ga_4819PJ6HEN': 'GS1.1.1688718739.1.1.1688718812.0.0.0',
         '_ga_0HYE8YG0M6': 'GS1.1.1688718739.1.1.1688718812.0.0.0',
-        'ENSSESSIONID': 'ZDlmYzVlNjQtZWY5Ni00MDZmLThjODYtYWNkNTgxZDI0MGU1',
-        'iPlanetDirectoryPro': 'pjMdIk3TNYqIZaBYILtcdsOrpD3pnUqL',
-        'clientInfo': 'eyJ1c2VybmFtZSI6IjIwMjIxMjI0MDA0MSIsInVzZXJJZCI6IjI3MTAyZmI0ODY4NjQ0NDNhMTIxNjc1MGIzOTk2Njk4IiwibG9naW5LZXkiOiJ5N3BCdEZsWE04aDk1WExmIiwic2lkIjoiZDlmYzVlNjQtZWY5Ni00MDZmLThjODYtYWNkNTgxZDI0MGU1In0=',
-        'GUESTSESSIONID': 'NzMwZTYzYmMtZTIxMS00NGQzLTk2MmUtOWRiMTYwZDM2NGM4',
-        'vpn_timestamp': '1691791942',
+        'ENSSESSIONID': 'YjgxN2Y0MGYtOGQwNy00NDcyLTk5NGQtYWQwZmJmMjdhZTVl',
+        'iPlanetDirectoryPro': 'pbtjI6SdRIadPsntgFLHn64ExdQutscJ',
+        'clientInfo': 'eyJ1c2VybmFtZSI6IjIwMjIxMjI0MDA0MSIsInVzZXJJZCI6IjI3MTAyZmI0ODY4NjQ0NDNhMTIxNjc1MGIzOTk2Njk4IiwibG9naW5LZXkiOiJyNU5RQUE2SFB2dDlhVmFJIiwic2lkIjoiYjgxN2Y0MGYtOGQwNy00NDcyLTk5NGQtYWQwZmJmMjdhZTVlIn0=',
+        'GUESTSESSIONID': 'NmQ2NmVhZWQtYzA1Ny00MzhiLWE1MDQtMzJkNGQ4MDA3ZTU3',
+        'vpn_timestamp': '1691886243',
     }
 
     headers = {
@@ -228,11 +268,10 @@ if __name__ == '__main__':
     # proxies = get_valid_proxy()
     all_pages = get_total_page(cookies, headers, get_valid_proxy())
     print('all_pages', all_pages)
-    for i in range(184, all_pages+1):  # 77   120  299
+    for i in range(238, all_pages + 1):  # 77   120  299  238
         proxies = get_valid_proxy()
         get_page(i)
         # 随机休息6-10秒
         t = random.randint(6, 10)
         time.sleep(t)
         print(f'休息{t}秒后，继续爬取第{i + 1}页', '\n')
-
