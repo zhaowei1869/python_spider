@@ -1,4 +1,4 @@
-#### 2023-08-23_11-14  IT之家日榜
+#### 2023-08-23_12-14  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -6,11 +6,11 @@
 | 2 | [小米 Redmi K60 至尊版手机官宣支持 5 年 OTA 更新，4 次安卓大版本升级](https://www.ithome.com/0/714/009.htm) |
 | 3 | [京东 PLUS 会员 23 日零点升级：无限免邮 + 至高 3% 返利 + 免费体检](https://www.ithome.com/0/714/117.htm) |
 | 4 | [用户反映苹果 iPhone 14 电池健康度下降过快，更换非正品电池将导致功能失效](https://www.ithome.com/0/713/969.htm) |
-| 5 | [Arm 正式递交 IPO 申请，最大客户来自中国](https://www.ithome.com/0/713/968.htm) |
-| 6 | [科技昨夜今晨 0823：Arm 正式递交 IPO 申请、京东 PLUS 会员升级、微软 Excel 宣布集成 Python](https://www.ithome.com/0/714/212.htm) |
-| 7 | [比亚迪海豹 DM-i 插混轿车宣布 8 月 25 日成都车展预售发布](https://www.ithome.com/0/713/975.htm) |
-| 8 | [34.99 万元起，极石 01 正式发布：定位中大型智能豪华 SUV 车型](https://www.ithome.com/0/714/129.htm) |
-| 9 | [FF 汽车湖北新公司成立，法拉第未来中国总部将落地黄冈](https://www.ithome.com/0/713/947.htm) |
-| 10 | [消息称苹果 iPhone 15 Pro 系列将涨价 100 至 200 美元](https://www.ithome.com/0/714/200.htm) |
+| 5 | [科技昨夜今晨 0823：Arm 正式递交 IPO 申请、京东 PLUS 会员升级、微软 Excel 宣布集成 Python](https://www.ithome.com/0/714/212.htm) |
+| 6 | [比亚迪海豹 DM-i 插混轿车宣布 8 月 25 日成都车展预售发布](https://www.ithome.com/0/713/975.htm) |
+| 7 | [34.99 万元起，极石 01 正式发布：定位中大型智能豪华 SUV 车型](https://www.ithome.com/0/714/129.htm) |
+| 8 | [消息称苹果 iPhone 15 Pro 系列将涨价 100 至 200 美元](https://www.ithome.com/0/714/200.htm) |
+| 9 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
+| 10 | [视觉中国回应“摄影师本人照片侵权”争议事件：考虑终止版权保护委托代理业务](https://www.ithome.com/0/714/226.htm) |
 | 11 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
-| 12 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
+| 12 | [消息称小米汽车现阶段电池供应商敲定：中创新航和宁德时代](https://www.ithome.com/0/714/036.htm) |
