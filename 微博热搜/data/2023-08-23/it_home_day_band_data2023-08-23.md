@@ -1,16 +1,16 @@
-#### 2023-08-23_15-14  IT之家日榜
+#### 2023-08-23_16-14  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [京东 8 月 23 日起包邮门槛从 99 元下调至 59 元](https://www.ithome.com/0/714/079.htm) |
 | 2 | [京东 PLUS 会员 23 日零点升级：无限免邮 + 至高 3% 返利 + 免费体检](https://www.ithome.com/0/714/117.htm) |
-| 3 | [小米 Redmi K60 至尊版手机官宣支持 5 年 OTA 更新，4 次安卓大版本升级](https://www.ithome.com/0/714/009.htm) |
-| 4 | [科技昨夜今晨 0823：Arm 正式递交 IPO 申请、京东 PLUS 会员升级、微软 Excel 宣布集成 Python](https://www.ithome.com/0/714/212.htm) |
-| 5 | [视觉中国回应“摄影师本人照片侵权”争议事件：考虑终止版权保护委托代理业务](https://www.ithome.com/0/714/226.htm) |
+| 3 | [科技昨夜今晨 0823：Arm 正式递交 IPO 申请、京东 PLUS 会员升级、微软 Excel 宣布集成 Python](https://www.ithome.com/0/714/212.htm) |
+| 4 | [视觉中国回应“摄影师本人照片侵权”争议事件：考虑终止版权保护委托代理业务](https://www.ithome.com/0/714/226.htm) |
+| 5 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
 | 6 | [消息称苹果 iPhone 15 Pro 系列将涨价 100 至 200 美元](https://www.ithome.com/0/714/200.htm) |
-| 7 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
-| 8 | [34.99 万元起，极石 01 正式发布：定位中大型智能豪华 SUV 车型](https://www.ithome.com/0/714/129.htm) |
-| 9 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
-| 10 | [长安汽车宣布率先搭载华为 HiCar 4.0：手机 App 上车，支持平行视界](https://www.ithome.com/0/714/244.htm) |
-| 11 | [iOS 17 Beta 7 暗示，苹果 iPhone 15 Pro 的 Action 按键支持新的震动反馈模式](https://www.ithome.com/0/714/202.htm) |
-| 12 | [消息称小米汽车现阶段电池供应商敲定：中创新航和宁德时代](https://www.ithome.com/0/714/036.htm) |
+| 7 | [34.99 万元起，极石 01 正式发布：定位中大型智能豪华 SUV 车型](https://www.ithome.com/0/714/129.htm) |
+| 8 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
+| 9 | [长安汽车宣布率先搭载华为 HiCar 4.0：手机 App 上车，支持平行视界](https://www.ithome.com/0/714/244.htm) |
+| 10 | [iOS 17 Beta 7 暗示，苹果 iPhone 15 Pro 的 Action 按键支持新的震动反馈模式](https://www.ithome.com/0/714/202.htm) |
+| 11 | [消息称华为 Mate 60 系列手机首发卫星电话功能，搭载国产 PA 芯片](https://www.ithome.com/0/714/302.htm) |
+| 12 | [苹果 iPhone 15 Pro 系列 21 项变化汇总](https://www.ithome.com/0/714/159.htm) |
