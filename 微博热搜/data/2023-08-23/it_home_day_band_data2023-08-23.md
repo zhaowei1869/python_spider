@@ -1,4 +1,4 @@
-#### 2023-08-23_16-14  IT之家日榜
+#### 2023-08-23_17-14  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
 | 6 | [消息称苹果 iPhone 15 Pro 系列将涨价 100 至 200 美元](https://www.ithome.com/0/714/200.htm) |
 | 7 | [34.99 万元起，极石 01 正式发布：定位中大型智能豪华 SUV 车型](https://www.ithome.com/0/714/129.htm) |
-| 8 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
+| 8 | [消息称华为 Mate 60 系列手机首发卫星电话功能，搭载国产 PA 芯片](https://www.ithome.com/0/714/302.htm) |
 | 9 | [长安汽车宣布率先搭载华为 HiCar 4.0：手机 App 上车，支持平行视界](https://www.ithome.com/0/714/244.htm) |
-| 10 | [iOS 17 Beta 7 暗示，苹果 iPhone 15 Pro 的 Action 按键支持新的震动反馈模式](https://www.ithome.com/0/714/202.htm) |
-| 11 | [消息称华为 Mate 60 系列手机首发卫星电话功能，搭载国产 PA 芯片](https://www.ithome.com/0/714/302.htm) |
+| 10 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
+| 11 | [iOS 17 Beta 7 暗示，苹果 iPhone 15 Pro 的 Action 按键支持新的震动反馈模式](https://www.ithome.com/0/714/202.htm) |
 | 12 | [苹果 iPhone 15 Pro 系列 21 项变化汇总](https://www.ithome.com/0/714/159.htm) |
