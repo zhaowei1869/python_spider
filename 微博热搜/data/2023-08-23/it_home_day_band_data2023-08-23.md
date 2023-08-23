@@ -1,16 +1,16 @@
-#### 2023-08-23_21-00  IT之家日榜
+#### 2023-08-23_22-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [京东 8 月 23 日起包邮门槛从 99 元下调至 59 元](https://www.ithome.com/0/714/079.htm) |
-| 2 | [京东 PLUS 会员 23 日零点升级：无限免邮 + 至高 3% 返利 + 免费体检](https://www.ithome.com/0/714/117.htm) |
-| 3 | [科技昨夜今晨 0823：Arm 正式递交 IPO 申请、京东 PLUS 会员升级、微软 Excel 宣布集成 Python](https://www.ithome.com/0/714/212.htm) |
-| 4 | [视觉中国回应“摄影师本人照片侵权”争议事件：考虑终止版权保护委托代理业务](https://www.ithome.com/0/714/226.htm) |
-| 5 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
-| 6 | [消息称苹果 iPhone 15 Pro 系列将涨价 100 至 200 美元](https://www.ithome.com/0/714/200.htm) |
-| 7 | [34.99 万元起，极石 01 正式发布：定位中大型智能豪华 SUV 车型](https://www.ithome.com/0/714/129.htm) |
-| 8 | [消息称华为 Mate 60 系列手机首发卫星电话功能，搭载国产 PA 芯片](https://www.ithome.com/0/714/302.htm) |
-| 9 | [长安汽车宣布率先搭载华为 HiCar 4.0：手机 App 上车，支持平行视界](https://www.ithome.com/0/714/244.htm) |
-| 10 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
-| 11 | [iOS 17 Beta 7 暗示，苹果 iPhone 15 Pro 的 Action 按键支持新的震动反馈模式](https://www.ithome.com/0/714/202.htm) |
-| 12 | [苹果 iPhone 15 Pro 系列 21 项变化汇总](https://www.ithome.com/0/714/159.htm) |
+| 1 | [视觉中国回应“摄影师本人照片侵权”争议事件：考虑终止版权保护委托代理业务](https://www.ithome.com/0/714/226.htm) |
+| 2 | [科技昨夜今晨 0823：Arm 正式递交 IPO 申请、京东 PLUS 会员升级、微软 Excel 宣布集成 Python](https://www.ithome.com/0/714/212.htm) |
+| 3 | [消息称华为 Mate 60 系列手机首发卫星电话功能，搭载国产 PA 芯片](https://www.ithome.com/0/714/302.htm) |
+| 4 | [消息称苹果 iPhone 15 系列配备 1.5 米长双头 USB-C 线缆](https://www.ithome.com/0/714/160.htm) |
+| 5 | [消息称苹果 iPhone 15 Pro 系列将涨价 100 至 200 美元](https://www.ithome.com/0/714/200.htm) |
+| 6 | [消息称国家发改委已批准小米生产电动汽车](https://www.ithome.com/0/714/317.htm) |
+| 7 | [长安汽车宣布率先搭载华为 HiCar 4.0：手机 App 上车，支持平行视界](https://www.ithome.com/0/714/244.htm) |
+| 8 | [乐视推出 Y2 Pro 手机：搭载紫光展锐虎贲 T610 芯片，699 元](https://www.ithome.com/0/714/142.htm) |
+| 9 | [iOS 17 Beta 7 暗示，苹果 iPhone 15 Pro 的 Action 按键支持新的震动反馈模式](https://www.ithome.com/0/714/202.htm) |
+| 10 | [苹果 iPhone 15 Pro 系列 21 项变化汇总](https://www.ithome.com/0/714/159.htm) |
+| 11 | [香港 TVB 与腾讯视频签署合作协议：将提供 2000 集经典库存剧集，共同推出四部定制剧](https://www.ithome.com/0/714/257.htm) |
+| 12 | [小米应用商店：2024 年 1 月 4 日前，应用 API 等级需提升至 Android 11.0](https://www.ithome.com/0/714/306.htm) |
