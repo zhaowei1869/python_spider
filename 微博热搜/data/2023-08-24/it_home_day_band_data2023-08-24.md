@@ -1,4 +1,16 @@
-#### 2023-08-24_18-00  IT之家日榜
+#### 2023-08-24_19-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
+| 1 | [被控涉嫌“不正当竞争”，开屏广告跳过 App“李跳跳”将无限期停更](https://www.ithome.com/0/714/446.htm) |
+| 2 | [消息称苹果 iPhone 15 标准机型 Type-C 数据线为 USB 2.0 速率](https://www.ithome.com/0/714/502.htm) |
+| 3 | [不止李跳跳，同类 App“大圣净化”“一指禅”“叮小跳”均收律师函](https://www.ithome.com/0/714/500.htm) |
+| 4 | [印度宣布“月船三号”成功登月，成为第四个成功受控落月的国家](https://www.ithome.com/0/714/404.htm) |
+| 5 | [高通发布骁龙 G3x Gen 2 旗舰掌机处理器，GPU 性能翻倍](https://www.ithome.com/0/714/420.htm) |
+| 6 | [华为首席运营官何刚：两周内超 500 万用户升级鸿蒙 HarmonyOS 4 系统，用户净推荐值相比上代提升 16%](https://www.ithome.com/0/714/442.htm) |
+| 7 | [比亚迪汉 DM-i 冠军版 121km 精英型车型即将开启批量交付，18.98 万元](https://www.ithome.com/0/714/411.htm) |
+| 8 | [英伟达公布《黑神话：悟空》4K DLSS 3 加长版实机演示，结尾有彩蛋](https://www.ithome.com/0/714/428.htm) |
+| 9 | [Unity 引擎中国版“团结引擎”正式发布，即将支持 OpenHarmony 和 AliOS 系统](https://www.ithome.com/0/714/394.htm) |
+| 10 | [消息称小米汽车工厂急招百余工人，雷军造车目标又迈进一步](https://www.ithome.com/0/714/455.htm) |
+| 11 | [全新保时捷帕拉梅拉跑车曝光：搭载传统 V6、V8 动力，总输出功率可达 650 马力](https://www.ithome.com/0/714/413.htm) |
+| 12 | [倪光南院士：RISC-V 已成中国最受欢迎芯片架构](https://www.ithome.com/0/714/410.htm) |
