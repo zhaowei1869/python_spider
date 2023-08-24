@@ -1,4 +1,4 @@
-#### 2023-08-24_21-00  IT之家日榜
+#### 2023-08-24_22-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -7,10 +7,10 @@
 | 3 | [不止李跳跳，同类 App“大圣净化”“一指禅”“叮小跳”均收律师函](https://www.ithome.com/0/714/500.htm) |
 | 4 | [高通发布骁龙 G3x Gen 2 旗舰掌机处理器，GPU 性能翻倍](https://www.ithome.com/0/714/420.htm) |
 | 5 | [华为首席运营官何刚：两周内超 500 万用户升级鸿蒙 HarmonyOS 4 系统，用户净推荐值相比上代提升 16%](https://www.ithome.com/0/714/442.htm) |
-| 6 | [比亚迪汉 DM-i 冠军版 121km 精英型车型即将开启批量交付，18.98 万元](https://www.ithome.com/0/714/411.htm) |
-| 7 | [英伟达公布《黑神话：悟空》4K DLSS 3 加长版实机演示，结尾有彩蛋](https://www.ithome.com/0/714/428.htm) |
-| 8 | [消息称小米汽车工厂急招百余工人，雷军造车目标又迈进一步](https://www.ithome.com/0/714/455.htm) |
-| 9 | [全新保时捷帕拉梅拉跑车曝光：搭载传统 V6、V8 动力，总输出功率可达 650 马力](https://www.ithome.com/0/714/413.htm) |
-| 10 | [何小鹏晒与黄仁勋合影：亲自送吴新宙去英伟达“报到”，将展开更深入合作](https://www.ithome.com/0/714/536.htm) |
-| 11 | [倪光南院士：RISC-V 已成中国最受欢迎芯片架构](https://www.ithome.com/0/714/410.htm) |
-| 12 | [Switch 已支持 D 加密防盗版技术，可阻止游戏在 PC 模拟器上运行](https://www.ithome.com/0/714/463.htm) |
+| 6 | [英伟达公布《黑神话：悟空》4K DLSS 3 加长版实机演示，结尾有彩蛋](https://www.ithome.com/0/714/428.htm) |
+| 7 | [消息称小米汽车工厂急招百余工人，雷军造车目标又迈进一步](https://www.ithome.com/0/714/455.htm) |
+| 8 | [据称“苹果 iPhone 15 Pro 所用 USB-C 数据线曝光”，IT之家首发详细上手解析](https://www.ithome.com/0/714/649.htm) |
+| 9 | [何小鹏晒与黄仁勋合影：亲自送吴新宙去英伟达“报到”，将展开更深入合作](https://www.ithome.com/0/714/536.htm) |
+| 10 | [Switch 已支持 D 加密防盗版技术，可阻止游戏在 PC 模拟器上运行](https://www.ithome.com/0/714/463.htm) |
+| 11 | [高通扩展骁龙 G 系列掌机芯片阵容：现可选 G1 Gen 1、G2 Gen 1 和 G3x Gen 2](https://www.ithome.com/0/714/424.htm) |
+| 12 | [我们真的不能把核电站做得更安全吗？第四代核电呼之欲出](https://www.ithome.com/0/714/538.htm) |
