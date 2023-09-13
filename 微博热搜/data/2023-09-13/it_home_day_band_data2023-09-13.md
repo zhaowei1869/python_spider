@@ -1,4 +1,4 @@
-#### 2023-09-13_14-00  IT之家日榜
+#### 2023-09-13_15-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -10,7 +10,7 @@
 | 6 | [苹果下架 iPhone 14 Pro / Max，iPhone 14/14 Plus 降价](https://www.ithome.com/0/718/732.htm) |
 | 7 | [苹果 iPhone 15 Pro / Max 独占新功能 +1：Thread 网络技术](https://www.ithome.com/0/718/741.htm) |
 | 8 | [iPhone 15 / Pro 新品发布会即将举行，苹果在线商店下线维护](https://www.ithome.com/0/718/642.htm) |
-| 9 | [破天荒：消息称苹果 iPhone 15 / Plus 发售当天就能买到印度产的](https://www.ithome.com/0/718/628.htm) |
-| 10 | [苹果 iPhone 15 / Plus 真机上手：采用 USB-C 接口，支持灵动岛](https://www.ithome.com/0/718/729.htm) |
-| 11 | [【一图知】一图看懂苹果 2023 秋季新品发布会](https://www.ithome.com/0/718/744.htm) |
-| 12 | [苹果 iPhone 15 Pro / Max 手机确认升级到 8GB 内存，标准版和 Plus 仍是 6GB](https://www.ithome.com/0/718/784.htm) |
+| 9 | [苹果 iPhone 15 Pro / Max 手机确认升级到 8GB 内存，标准版和 Plus 仍是 6GB](https://www.ithome.com/0/718/784.htm) |
+| 10 | [破天荒：消息称苹果 iPhone 15 / Plus 发售当天就能买到印度产的](https://www.ithome.com/0/718/628.htm) |
+| 11 | [苹果 iPhone 15 / Plus 真机上手：采用 USB-C 接口，支持灵动岛](https://www.ithome.com/0/718/729.htm) |
+| 12 | [【一图知】一图看懂苹果 2023 秋季新品发布会](https://www.ithome.com/0/718/744.htm) |
