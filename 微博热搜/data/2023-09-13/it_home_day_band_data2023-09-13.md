@@ -1,4 +1,4 @@
-#### 2023-09-13_16-00  IT之家日榜
+#### 2023-09-13_17-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -8,8 +8,8 @@
 | 4 | [苹果 iPhone 15 Pro / Max 发布：搭载 A17 Pro 处理器，采用钛金属机身，支持拍摄空间视频](https://www.ithome.com/0/718/710.htm) |
 | 5 | [苹果发布 6.1/6.7 英寸 iPhone 15 标准机型：升级灵动岛、配 4800 万主摄、改用 USB-C 端口，起售价 799/899 美元](https://www.ithome.com/0/718/704.htm) |
 | 6 | [苹果下架 iPhone 14 Pro / Max，iPhone 14/14 Plus 降价](https://www.ithome.com/0/718/732.htm) |
-| 7 | [苹果 iPhone 15 Pro / Max 独占新功能 +1：Thread 网络技术](https://www.ithome.com/0/718/741.htm) |
-| 8 | [苹果 iPhone 15 Pro / Max 手机确认升级到 8GB 内存，标准版和 Plus 仍是 6GB](https://www.ithome.com/0/718/784.htm) |
+| 7 | [苹果 iPhone 15 Pro / Max 手机确认升级到 8GB 内存，标准版和 Plus 仍是 6GB](https://www.ithome.com/0/718/784.htm) |
+| 8 | [苹果 iPhone 15 Pro / Max 独占新功能 +1：Thread 网络技术](https://www.ithome.com/0/718/741.htm) |
 | 9 | [iPhone 15 / Pro 新品发布会即将举行，苹果在线商店下线维护](https://www.ithome.com/0/718/642.htm) |
 | 10 | [破天荒：消息称苹果 iPhone 15 / Plus 发售当天就能买到印度产的](https://www.ithome.com/0/718/628.htm) |
 | 11 | [苹果 iPhone 15 / Plus 真机上手：采用 USB-C 接口，支持灵动岛](https://www.ithome.com/0/718/729.htm) |
