@@ -1,4 +1,4 @@
-#### 2023-09-14_12-00  IT之家日榜
+#### 2023-09-14_13-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [苹果 iPhone 15 / Pro 新机发布，毫米波 5G 仍然只限美国版](https://www.ithome.com/0/718/959.htm) |
 | 6 | [消息称小米 14/Pro系列手机计划 11 月初发布：已开始量产，备货量同比增六成](https://www.ithome.com/0/718/949.htm) |
 | 7 | [官宣！华为秋季全场景新品发布会定档 9 月 25 日](https://www.ithome.com/0/719/008.htm) |
-| 8 | [华为 4G 手机新品通过 3C 认证入网：型号 BON-AL00，支持 66W 有线快充](https://www.ithome.com/0/718/831.htm) |
-| 9 | [IDC 咨询：苹果 iPhone 15 / Pro 全面升级，但面临国内安卓厂商的“更大挑战”](https://www.ithome.com/0/718/921.htm) |
-| 10 | [2025 款凯迪拉克 CT5 发布：升级 33 英寸大连屏](https://www.ithome.com/0/718/976.htm) |
-| 11 | [苹果 iPhone 15 Pro / Max 机型支持 Wi-Fi 6E](https://www.ithome.com/0/718/852.htm) |
-| 12 | [TrendForce：苹果 iPhone 15 Pro Max 定价合理，预计今年系列手机总出货量达 8000 万部](https://www.ithome.com/0/718/939.htm) |
+| 8 | [12999 元起！华为 Mate X5 折叠屏满血回归](https://www.ithome.com/0/719/015.htm) |
+| 9 | [华为 4G 手机新品通过 3C 认证入网：型号 BON-AL00，支持 66W 有线快充](https://www.ithome.com/0/718/831.htm) |
+| 10 | [IDC 咨询：苹果 iPhone 15 / Pro 全面升级，但面临国内安卓厂商的“更大挑战”](https://www.ithome.com/0/718/921.htm) |
+| 11 | [2025 款凯迪拉克 CT5 发布：升级 33 英寸大连屏](https://www.ithome.com/0/718/976.htm) |
+| 12 | [苹果 iPhone 15 Pro / Max 机型支持 Wi-Fi 6E](https://www.ithome.com/0/718/852.htm) |
