@@ -1,16 +1,16 @@
-#### 2023-09-21_14-00  IT之家日榜
+#### 2023-09-21_15-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [高通骁龙 8 Gen 3 for Galaxy 处理器最新多核跑分曝光，提升幅度高达 49%](https://www.ithome.com/0/720/512.htm) |
-| 2 | [6499 元起，蔚来 NIOPhone 手机正式发布：骁龙 8 Gen 2 领先版、车机全景互联](https://www.ithome.com/0/720/590.htm) |
+| 1 | [6499 元起，蔚来 NIOPhone 手机正式发布：骁龙 8 Gen 2 领先版、车机全景互联](https://www.ithome.com/0/720/590.htm) |
+| 2 | [高通骁龙 8 Gen 3 for Galaxy 处理器最新多核跑分曝光，提升幅度高达 49%](https://www.ithome.com/0/720/512.htm) |
 | 3 | [小米 Redmi K70 Pro 手机现身跑分库：骁龙 8 Gen 3 处理器 + 16GB 内存](https://www.ithome.com/0/720/442.htm) |
-| 4 | [iPhone 15 / Pro 首发日遇风波，苹果法国门店员工将举行罢工](https://www.ithome.com/0/720/420.htm) |
-| 5 | [今晚国内油价将上调，加满一箱 92 号汽油多花 15 元左右](https://www.ithome.com/0/720/453.htm) |
-| 6 | [华为 Mate 60 Pro 手机 12GB+256GB 版本上架，6499 元](https://www.ithome.com/0/720/577.htm) |
-| 7 | [苹果解释 iPhone 15 Pro Max 为何不上 10x 远摄镜头](https://www.ithome.com/0/720/522.htm) |
-| 8 | [蔚来 NIOPhone 手机正式亮相：骁龙 8 Gen 2 领先版、50MP 三主摄](https://www.ithome.com/0/720/584.htm) |
+| 4 | [华为 Mate 60 Pro 手机 12GB+256GB 版本上架，6499 元](https://www.ithome.com/0/720/577.htm) |
+| 5 | [iPhone 15 / Pro 首发日遇风波，苹果法国门店员工将举行罢工](https://www.ithome.com/0/720/420.htm) |
+| 6 | [今晚国内油价将上调，加满一箱 92 号汽油多花 15 元左右](https://www.ithome.com/0/720/453.htm) |
+| 7 | [蔚来 NIOPhone 手机正式亮相：骁龙 8 Gen 2 领先版、50MP 三主摄](https://www.ithome.com/0/720/584.htm) |
+| 8 | [苹果解释 iPhone 15 Pro Max 为何不上 10x 远摄镜头](https://www.ithome.com/0/720/522.htm) |
 | 9 | [限量 2000 台 + 赠手环：小米 Redmi Note13 Pro 手机京东 21 日限量抢](https://www.ithome.com/0/720/416.htm) |
-| 10 | [消息称小米 14 Ultra 手机采用索尼 LYT900 传感器，后置圆形四摄](https://www.ithome.com/0/720/455.htm) |
-| 11 | [比亚迪仰望 U8 车型正式上市：“易四方”四电机技术 + 原地转向，豪华版售价 109.8 万元](https://www.ithome.com/0/720/489.htm) |
-| 12 | [QQ 表情包不再支持本地下载保存，腾讯称“基于版权保护”](https://www.ithome.com/0/720/367.htm) |
+| 10 | [比亚迪仰望 U8 车型正式上市：“易四方”四电机技术 + 原地转向，豪华版售价 109.8 万元](https://www.ithome.com/0/720/489.htm) |
+| 11 | [消息称小米 14 Ultra 手机采用索尼 LYT900 传感器，后置圆形四摄](https://www.ithome.com/0/720/455.htm) |
+| 12 | [IT之家首发上手：蔚来 NIO Phone 手机图赏，6499 元你会考虑购买吗？](https://www.ithome.com/0/720/597.htm) |
