@@ -1,4 +1,4 @@
-#### 2023-09-21_21-25  IT之家日榜
+#### 2023-09-21_22-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -10,7 +10,7 @@
 | 6 | [苹果解释 iPhone 15 Pro Max 为何不上 10x 远摄镜头](https://www.ithome.com/0/720/522.htm) |
 | 7 | [蔚来首颗自研芯片“杨戬”宣布 10 月量产](https://www.ithome.com/0/720/554.htm) |
 | 8 | [三星 Galaxy S24 Ultra 手机长焦方案曝光，10 倍光学变焦砍成 5 倍](https://www.ithome.com/0/720/515.htm) |
-| 9 | [蔚来 NIOPhone 手机宣布“0 系统广告，0 商业预装”](https://www.ithome.com/0/720/587.htm) |
-| 10 | [小米 Redmi Pad SE 平板支持全新涂鸦触控笔，无需充电即可使用](https://www.ithome.com/0/720/519.htm) |
-| 11 | [10 点再次开售：iPhone 15 Pro 系列手机京东补货蹲点速抢](https://www.ithome.com/0/720/545.htm) |
-| 12 | [小米 Redmi Note 13 Pro + 手机发布，首销到手价 1899 元起](https://www.ithome.com/0/720/770.htm) |
+| 9 | [小米 Redmi Note 13 Pro + 手机发布，首销到手价 1899 元起](https://www.ithome.com/0/720/770.htm) |
+| 10 | [蔚来 NIOPhone 手机宣布“0 系统广告，0 商业预装”](https://www.ithome.com/0/720/587.htm) |
+| 11 | [小米 Redmi Pad SE 平板支持全新涂鸦触控笔，无需充电即可使用](https://www.ithome.com/0/720/519.htm) |
+| 12 | [10 点再次开售：iPhone 15 Pro 系列手机京东补货蹲点速抢](https://www.ithome.com/0/720/545.htm) |
