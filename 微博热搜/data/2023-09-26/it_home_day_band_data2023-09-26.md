@@ -1,4 +1,4 @@
-#### 2023-09-26_21-00  IT之家日榜
+#### 2023-09-26_22-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -11,6 +11,6 @@
 | 7 | [智界 S7 预告图公开：定位高能大空间智慧轿跑车型，号称超越特斯拉 Model S](https://www.ithome.com/0/721/615.htm) |
 | 8 | [分析机构：中国消费者平均需要 119% 月薪，才可购买苹果 iPhone 15 Pro Max 手机](https://www.ithome.com/0/721/646.htm) |
 | 9 | [苹果 iPhone 15 Pro Max 对比安卓旗舰续航测试](https://www.ithome.com/0/721/634.htm) |
-| 10 | [华为 MatePad Pro 13.2 平板由京东方和维信诺提供柔性 OLED 屏幕](https://www.ithome.com/0/721/594.htm) |
-| 11 | [【视频】华为Mate60 Pro VS 苹果iPhone 15 Pro巅峰对决，谁才是“体验王者”旗舰](https://www.ithome.com/0/721/658.htm) |
-| 12 | [谷歌 Pixel 8 / Pro 手机全曝光：相机大升级，提供 7 年更新支持](https://www.ithome.com/0/721/613.htm) |
+| 10 | [【视频】华为Mate60 Pro VS 苹果iPhone 15 Pro巅峰对决，谁才是“体验王者”旗舰](https://www.ithome.com/0/721/658.htm) |
+| 11 | [谷歌 Pixel 8 / Pro 手机全曝光：相机大升级，提供 7 年更新支持](https://www.ithome.com/0/721/613.htm) |
+| 12 | [广泛差评：苹果 iPhone 15 精织斜纹保护壳“一团糟”](https://www.ithome.com/0/721/620.htm) |
