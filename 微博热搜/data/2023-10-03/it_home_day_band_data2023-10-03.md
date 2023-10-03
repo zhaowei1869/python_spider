@@ -1,4 +1,4 @@
-#### 2023-10-03_21-00  IT之家日榜
+#### 2023-10-03_22-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -7,8 +7,8 @@
 | 3 | [OPPO Find N3 折叠屏样机首次亮相：无缝隙铰链设计，海外改名一加 Open](https://www.ithome.com/0/722/879.htm) |
 | 4 | [华为 Mate 60 微泵液冷手机壳上架：提供可视透窗，售价 299 元](https://www.ithome.com/0/722/898.htm) |
 | 5 | [迅雷盒子 X1 清新版上架：1T 固态硬盘 + 千兆网口，售价 1099 元](https://www.ithome.com/0/722/876.htm) |
-| 6 | [魅族 21 / 21 Pro 手机现身 IMEI 数据库，预计提供多达 5 个版本](https://www.ithome.com/0/722/902.htm) |
-| 7 | [小米张宇：Redmi K60 手机不存在 9 月新机器切换屏幕型号问题](https://www.ithome.com/0/722/915.htm) |
+| 6 | [小米张宇：Redmi K60 手机不存在 9 月新机器切换屏幕型号问题](https://www.ithome.com/0/722/915.htm) |
+| 7 | [魅族 21 / 21 Pro 手机现身 IMEI 数据库，预计提供多达 5 个版本](https://www.ithome.com/0/722/902.htm) |
 | 8 | [本田全新电动 SUV 车型 Prologue 亮相：基于奥特能平台，轴距超 3 米](https://www.ithome.com/0/722/858.htm) |
 | 9 | [英特尔酷睿 i5-14600KF 处理器现身 Geekbench，单核性能比 i5-13600K 强 6%](https://www.ithome.com/0/722/855.htm) |
 | 10 | [苹果初代 Apple Watch 现已“过时”，包括 17000 美元的黄金版](https://www.ithome.com/0/722/864.htm) |
