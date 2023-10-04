@@ -1,4 +1,4 @@
-#### 2023-10-03_22-00  IT之家日榜
+#### 2023-10-03_23-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -10,7 +10,7 @@
 | 6 | [小米张宇：Redmi K60 手机不存在 9 月新机器切换屏幕型号问题](https://www.ithome.com/0/722/915.htm) |
 | 7 | [魅族 21 / 21 Pro 手机现身 IMEI 数据库，预计提供多达 5 个版本](https://www.ithome.com/0/722/902.htm) |
 | 8 | [本田全新电动 SUV 车型 Prologue 亮相：基于奥特能平台，轴距超 3 米](https://www.ithome.com/0/722/858.htm) |
-| 9 | [英特尔酷睿 i5-14600KF 处理器现身 Geekbench，单核性能比 i5-13600K 强 6%](https://www.ithome.com/0/722/855.htm) |
+| 9 | [2023 年诺贝尔物理学奖揭晓，三位科学家因阿秒光脉冲获奖](https://www.ithome.com/0/722/937.htm) |
 | 10 | [苹果初代 Apple Watch 现已“过时”，包括 17000 美元的黄金版](https://www.ithome.com/0/722/864.htm) |
 | 11 | [Android 14 稳定版获运营商确认 10 月 4 日发布](https://www.ithome.com/0/722/885.htm) |
 | 12 | [消息称荣耀 X50 GT 手机提供直屏、曲屏双版本，高端设计大众化](https://www.ithome.com/0/722/892.htm) |
