@@ -1,16 +1,16 @@
-#### 2023-10-04_18-00  IT之家日榜
+#### 2023-10-04_19-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [苹果将发布 iOS 17.0.3 版本，以修复 iPhone 15 Pro 系列手机过热问题](https://www.ithome.com/0/722/969.htm) |
-| 2 | [特斯拉再强调 FSD 技术细节，号称“不使用高清地图、只依靠神经网络和大量数据运作”](https://www.ithome.com/0/722/951.htm) |
-| 3 | [799~2299 元，三星移动固态硬盘 T9 发布：最高 4TB 可选](https://www.ithome.com/0/722/960.htm) |
-| 4 | [苹果 iOS / iPadOS 17.1 开发者预览版 Beta 2 发布，待机显示选项、新铃声回归](https://www.ithome.com/0/722/966.htm) |
-| 5 | [小米新款三口充电器通过 3C 认证：单口 120W，总功率 140W](https://www.ithome.com/0/722/993.htm) |
-| 6 | [消息称 X100 / Pro 系列手机有望支持卫星通讯功能，已通过工信部无线电核准](https://www.ithome.com/0/722/981.htm) |
-| 7 | [HMD 出货首批由欧洲制造的“限量版”诺基亚 XR21 5G 手机，售价 649 欧元](https://www.ithome.com/0/722/947.htm) |
-| 8 | [微软 Win11 首次开机 OOBE 流程添加“冲浪”小游戏，让用户打发等待时间](https://www.ithome.com/0/722/978.htm) |
-| 9 | [诺奖得主曾数次被剥夺教职，网友集体要求高校道歉：获资助比拿诺奖更难](https://www.ithome.com/0/723/000.htm) |
-| 10 | [苹果提醒开发者：为 visionOS 开发应用必须使用 Apple Silicon 款 Mac 电脑](https://www.ithome.com/0/722/982.htm) |
-| 11 | [三星 Galaxy S23 FE 手机发布：骁龙 8 Gen 1 / Exynos 2200，599 美元起](https://www.ithome.com/0/722/971.htm) |
-| 12 | [去哪儿回应“杀熟”：相关优惠券已于 7 月使用，后续将优化优惠券列表页面](https://www.ithome.com/0/722/942.htm) |
+| 1 | [三星 One UI 6 正式发布：控制中心 UI 改进、全新字体、锁屏时钟自定义](https://www.ithome.com/0/723/181.htm) |
+| 2 | [实测：苹果 iOS 17.0.3 更新改善 iPhone 15 Pro / Max 的过热问题](https://www.ithome.com/0/723/198.htm) |
+| 3 | [三星发布 Exynos 2400 芯片：CPU 提速 70%、搭载 RDNA3 GPU](https://www.ithome.com/0/723/213.htm) |
+| 4 | [华为全液冷超充站在 318 川藏线理塘、桑堆等地上线，号称一秒补充一公里续航](https://www.ithome.com/0/723/197.htm) |
+| 5 | [3500 辆：问界新 M7 车型破单日大定纪录，累计超 4 万辆](https://www.ithome.com/0/723/191.htm) |
+| 6 | [消息称苹果今年推出 iPad mini 7、两款 iPad Air 和妙控键盘等新品](https://www.ithome.com/0/723/185.htm) |
+| 7 | [跟进苹果，消息称三星 Galaxy S24 Ultra 手机采用钛合金中框](https://www.ithome.com/0/723/212.htm) |
+| 8 | [英特尔演示酷睿 Ultra 1 代笔记本：关闭 CPU / GPU 模块，使用 SoC 模块播放 1080p 视频](https://www.ithome.com/0/723/271.htm) |
+| 9 | [史蒂夫・乔布斯去世 12 周年，蒂姆・库克发推怀念](https://www.ithome.com/0/723/189.htm) |
+| 10 | [杭州亚运会闭幕式官方预热：数字火炬手再现，世界首创 AR“数控草坪”](https://www.ithome.com/0/723/209.htm) |
+| 11 | [现代、起亚汽车双双宣布接入特斯拉 NACS 充电标准，新车明年 Q4 开售](https://www.ithome.com/0/723/201.htm) |
+| 12 | [微软 DALL-E 3 禁止生成“世贸”、“双子塔”主题图片，官方回应“防止产生有害内容”](https://www.ithome.com/0/723/203.htm) |
