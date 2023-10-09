@@ -1,4 +1,4 @@
-#### 2023-10-09_12-00  IT之家日榜
+#### 2023-10-09_13-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [iPhone 的「灵动岛」，还能这么玩](https://www.ithome.com/0/723/572.htm) |
 | 6 | [印尼首都，正在下沉](https://www.ithome.com/0/723/566.htm) |
 | 7 | [魅族 21 系列手机新爆料：超窄直屏换代升级，首批搭载骁龙 8 Gen 3 处理器](https://www.ithome.com/0/723/481.htm) |
-| 8 | [华为商城发布问界新 M7 新权益：下定享 3 万元优惠](https://www.ithome.com/0/723/474.htm) |
-| 9 | [特斯拉新款 Model Y 车型已陆续登陆全国门店，26.39 万元起](https://www.ithome.com/0/723/570.htm) |
-| 10 | [努比亚 Z50S Pro 手机新增 24GB+1T 版本，4699 元](https://www.ithome.com/0/723/526.htm) |
-| 11 | [亚运会工作电脑 30 天不关机：近万台电脑全程 0 故障](https://www.ithome.com/0/723/594.htm) |
+| 8 | [特斯拉新款 Model Y 车型已陆续登陆全国门店，26.39 万元起](https://www.ithome.com/0/723/570.htm) |
+| 9 | [不止 Pro 机型，苹果 iPhone 15 全系内置高通 X70 基带](https://www.ithome.com/0/723/603.htm) |
+| 10 | [亚运会工作电脑 30 天不关机：近万台电脑全程 0 故障](https://www.ithome.com/0/723/594.htm) |
+| 11 | [努比亚 Z50S Pro 手机新增 24GB+1T 版本，4699 元](https://www.ithome.com/0/723/526.htm) |
 | 12 | [苹果 iPhone 15 / Pro 系列手机发货时间缩短](https://www.ithome.com/0/723/581.htm) |
