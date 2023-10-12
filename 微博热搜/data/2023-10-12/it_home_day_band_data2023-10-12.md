@@ -1,4 +1,4 @@
-#### 2023-10-12_19-00  IT之家日榜
+#### 2023-10-12_20-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [华为发布全球首个全系列 5G-A 产品解决方案](https://www.ithome.com/0/724/334.htm) |
 | 6 | [苹果 iPhone 15 Pro Max 登顶 DXOMARK 前置摄像头排行榜](https://www.ithome.com/0/724/286.htm) |
 | 7 | [小米米家超净洗 Pro 洗衣机上架：直驱 + 烘干，到手价 1999 元](https://www.ithome.com/0/724/398.htm) |
-| 8 | [预装“热门应用全家桶”，消息称 HMD 诺基亚 C31 手机换用“FreemeOS 系统”](https://www.ithome.com/0/724/257.htm) |
-| 9 | [威马车主反映车机、手机 App 已停服，客服电话无人接听](https://www.ithome.com/0/724/358.htm) |
-| 10 | [美国财政部税务大棒砸向微软，要求其补缴近 300 亿美元税款](https://www.ithome.com/0/724/313.htm) |
-| 11 | [荣耀 V30 手机推送华为 Harmony OS 4 Beta 版更新，新增“实况窗”等](https://www.ithome.com/0/724/321.htm) |
-| 12 | [三星 Galaxy S24 Ultra 手机跑分曝光：骁龙 8 Gen 3 for Galaxy 芯片 + 8GB 内存](https://www.ithome.com/0/724/410.htm) |
+| 8 | [威马车主反映车机、手机 App 已停服，客服电话无人接听](https://www.ithome.com/0/724/358.htm) |
+| 9 | [美国财政部税务大棒砸向微软，要求其补缴近 300 亿美元税款](https://www.ithome.com/0/724/313.htm) |
+| 10 | [三星 Galaxy S24 Ultra 手机跑分曝光：骁龙 8 Gen 3 for Galaxy 芯片 + 8GB 内存](https://www.ithome.com/0/724/410.htm) |
+| 11 | [消息称小米 14 Ultra 手机后置模组变化不大，正在测试超声波指纹](https://www.ithome.com/0/724/425.htm) |
+| 12 | [荣耀 V30 手机推送华为 Harmony OS 4 Beta 版更新，新增“实况窗”等](https://www.ithome.com/0/724/321.htm) |
