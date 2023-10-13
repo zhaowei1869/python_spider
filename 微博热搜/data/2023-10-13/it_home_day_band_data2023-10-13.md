@@ -1,16 +1,4 @@
-#### 2023-10-13_14-00  IT之家日榜
+#### 2023-10-13_15-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [6999 元起，荣耀 Magic Vs2 折叠屏手机正式发布](https://www.ithome.com/0/724/561.htm) |
-| 2 | [智己 LS6 车型正式上市：极限状态 305 km/h，21.49 万元起](https://www.ithome.com/0/724/559.htm) |
-| 3 | [荣耀 Magic Vs2 搭载第一代骁龙 8+ 芯片、MagicOS 7.2 系统，号称可实现 50 个月流畅](https://www.ithome.com/0/724/556.htm) |
-| 4 | [999 元：小米多看电纸书 Pro Ⅱ 京东限时发车](https://www.ithome.com/0/724/540.htm) |
-| 5 | [苹果刀法精湛：消息称 iPhone 16 Pro 机型配骁龙 X75 调制解调器，标准机型保留 X70](https://www.ithome.com/0/724/582.htm) |
-| 6 | [华为 P40 / Mate 30 系列手机推送 HarmonyOS 4.0.0.116 更新，优化实况窗显示效果](https://www.ithome.com/0/724/563.htm) |
-| 7 | [消息称小米 14 Ultra 手机后置模组变化不大，正在测试超声波指纹](https://www.ithome.com/0/724/425.htm) |
-| 8 | [1599/1799 元，荣耀手表 4 Pro 发布：搭载紫光芯片，支持 eSIM 独立通话](https://www.ithome.com/0/724/567.htm) |
-| 9 | [【IT之家开箱】荣耀 Magic Vs2 绒黑色 / 冰川蓝图赏：多曲面设计，时尚优雅](https://www.ithome.com/0/724/566.htm) |
-| 10 | [【IT之家评测室】Redmi Pad SE 体验：影音体验越级，质感出众](https://www.ithome.com/0/724/524.htm) |
-| 11 | [消息称小米汽车与奇瑞、华晨汽车洽谈生产合作事宜，正努力获得工信部批准](https://www.ithome.com/0/724/542.htm) |
-| 12 | [小米 14 Pro 手机渲染图曝光：2.5D 2K 屏、50MP 方形相机模组、骁龙 8 Gen 3](https://www.ithome.com/0/724/663.htm) |
