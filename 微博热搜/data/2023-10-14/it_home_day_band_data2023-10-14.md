@@ -1,15 +1,15 @@
-#### 2023-10-14_11-00  IT之家日榜
+#### 2023-10-14_12-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [小米 14 Pro 手机渲染图曝光：2.5D 2K 屏、50MP 方形相机模组、骁龙 8 Gen 3](https://www.ithome.com/0/724/663.htm) |
 | 2 | [长沙电信大楼火灾调查报告发布：系未熄烟头引燃，20 余人被问责](https://www.ithome.com/0/724/774.htm) |
 | 3 | [微软正式完成收购动视暴雪，于今日获英国 CMA 批准](https://www.ithome.com/0/724/692.htm) |
-| 4 | [“刘海”变灵动岛，iPadOS 固件显示苹果新款 MacBook Pro 将配备打孔屏幕](https://www.ithome.com/0/724/812.htm) |
-| 5 | [华为家庭存储无盘版上架：支持手机一碰扩容、双盘位，到手 1899 元](https://www.ithome.com/0/724/838.htm) |
-| 6 | [2024 款别克微蓝 6 纯电轿车 430km 版上市，9.98 万元起](https://www.ithome.com/0/724/759.htm) |
-| 7 | [全新动画《龙珠：大魔》预告片公开：悟空再次变小、鸟山明亲自操刀，明年秋季播出](https://www.ithome.com/0/724/696.htm) |
-| 8 | [小米 13 / Pro 手机现已获得基于 Android 14 的 MIUI 14 正式版更新](https://www.ithome.com/0/724/853.htm) |
+| 4 | [华为家庭存储无盘版上架：支持手机一碰扩容、双盘位，到手 1899 元](https://www.ithome.com/0/724/838.htm) |
+| 5 | [“刘海”变灵动岛，iPadOS 固件显示苹果新款 MacBook Pro 将配备打孔屏幕](https://www.ithome.com/0/724/812.htm) |
+| 6 | [小米 13 / Pro 手机现已获得基于 Android 14 的 MIUI 14 正式版更新](https://www.ithome.com/0/724/853.htm) |
+| 7 | [2024 款别克微蓝 6 纯电轿车 430km 版上市，9.98 万元起](https://www.ithome.com/0/724/759.htm) |
+| 8 | [全新动画《龙珠：大魔》预告片公开：悟空再次变小、鸟山明亲自操刀，明年秋季播出](https://www.ithome.com/0/724/696.htm) |
 | 9 | [比亚迪 360 全景影像配件即将上市：适配秦 PLUS、驱逐舰冠军版车型](https://www.ithome.com/0/724/754.htm) |
 | 10 | [威马汽车回应“App 停服”：车机已恢复正常，为用户带来不便深表歉意](https://www.ithome.com/0/724/674.htm) |
 | 11 | [因“业务调整”，腾讯 QQ“群恢复功能”今日正式下线](https://www.ithome.com/0/724/796.htm) |
