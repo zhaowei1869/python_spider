@@ -1,4 +1,16 @@
-#### 2023-10-20_10-00  IT之家日榜
+#### 2023-10-20_11-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
+| 1 | [至高立减 700 元：小米 13 系列手机 11.11 狂促晚 8 点正式开启](https://www.ithome.com/0/726/111.htm) |
+| 2 | [华为、赛力斯联合设计，问界 M9 旗舰 SUV 车型灵感来自“鲲鹏”](https://www.ithome.com/0/725/978.htm) |
+| 3 | [小米 Redmi 产品经理吴昊：Note 13 Pro + 手机通过 IP69 级防护测试](https://www.ithome.com/0/725/983.htm) |
+| 4 | [OPPO Find N3 折叠屏手机发布：影像大升级，售价 9999 元起](https://www.ithome.com/0/726/073.htm) |
+| 5 | [Jeff Pu：苹果 iPhone 15 系列中国市场遇冷，iPhone 16 将配备 A18 芯片](https://www.ithome.com/0/726/001.htm) |
+| 6 | [OPPO 刘作虎回应华为回归：做好产品，想其它的没有意义](https://www.ithome.com/0/726/191.htm) |
+| 7 | [PCIE5.0+16G 显存：摩尔线程 MTT S80 国产显卡开放购买](https://www.ithome.com/0/726/152.htm) |
+| 8 | [【IT之家开箱】9999 元起，OPPO Find N3 / 典藏版折叠屏手机图赏](https://www.ithome.com/0/726/083.htm) |
+| 9 | [88 元年内探底：B站大会员年卡官方双十一限时发车](https://www.ithome.com/0/726/013.htm) |
+| 10 | [京东与美的小米等品牌发起双十一“真低价”倡议](https://www.ithome.com/0/726/116.htm) |
+| 11 | [小米迷你主机 2023 上架：i5-1340P + 16G + 512G，3499 元](https://www.ithome.com/0/726/147.htm) |
+| 12 | [三星 11.11 狂促正式开启：S23 Ultra 手机低至 5999 元，S23 仅需 3399 元](https://www.ithome.com/0/726/154.htm) |
