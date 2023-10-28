@@ -1,0 +1,16 @@
+#### 2023-10-28_10-26  IT之家日榜
+
+| 排名 | 标题|
+| --- | ---|
+| 1 | [小米 14 手机全系支持有线 DP1.2 视频输出，可将手机内容投屏至显示器](https://www.ithome.com/0/728/160.htm) |
+| 2 | [iQOO 12 手机官图公开：大尺寸后置镜头模组 +“标志性”三色条纹](https://www.ithome.com/0/728/103.htm) |
+| 3 | [11.11 今日攻略：Redmi K60 手机跌破两千，AirPods Pro 2 耳机 1436 元含税包邮](https://www.ithome.com/0/728/166.htm) |
+| 4 | [DXOMARK 公布苹果 iPhone 15 / Plus 手机屏幕、音频成绩：均排名高端榜单前五](https://www.ithome.com/0/728/019.htm) |
+| 5 | [苹果发布会前瞻：搭载 M3 芯片的 MacBook Air / Pro、24 寸 iMac 等设备有望登场](https://www.ithome.com/0/728/188.htm) |
+| 6 | [极越 01 SUV 正式发布：纯视觉感知，35.6 寸 6K 中控，号称“全球首台 AI 汽车机器人”售 24.9 万元起](https://www.ithome.com/0/728/165.htm) |
+| 7 | [小米澎湃 OS 国际版 2024 年第一季度发布](https://www.ithome.com/0/728/124.htm) |
+| 8 | [极氪 001 FR 纯电猎装超跑上市：全球首个量产交付四碳化硅 800V 系统、首发莱科宁模式，76.9 万元](https://www.ithome.com/0/728/163.htm) |
+| 9 | [一加 12 手机现身安兔兔：骁龙 8 Gen 3 搭配 12GB 内存，总分超 211 万](https://www.ithome.com/0/728/068.htm) |
+| 10 | [IDC：三季度中国智能手机市场同比下降 6.3%，荣耀跃居第一，华为稳坐折叠屏榜首](https://www.ithome.com/0/727/991.htm) |
+| 11 | [华为 2023 年前三季度销售收入 4566 亿元：同比增长 2.4%，净利润率 16.0%](https://www.ithome.com/0/728/096.htm) |
+| 12 | [三星 Galaxy S24 + 手机现身 Geekbench，确认提供 12GB 内存版本](https://www.ithome.com/0/728/084.htm) |
