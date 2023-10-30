@@ -1,4 +1,4 @@
-#### 2023-10-30_10-00  IT之家日榜
+#### 2023-10-30_11-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [温度高达 5000℃，水不沸腾，反而结冰，科学家发现水的一种新形态](https://www.ithome.com/0/728/430.htm) |
 | 6 | [为什么说中国现在非常缺石油](https://www.ithome.com/0/728/417.htm) |
 | 7 | [“中国电车没有技术惊喜”，日本新造车社长狂言：只是排列 APP 图标](https://www.ithome.com/0/728/370.htm) |
-| 8 | [iQOO 12 系列手机完整机身图曝光，11 月 7 日发布](https://www.ithome.com/0/728/342.htm) |
+| 8 | [蔚来回应“NIO Phone 手机是否由 OPPO 代工”：确实谈过合作，但没成功](https://www.ithome.com/0/728/407.htm) |
 | 9 | [比亚迪新车宋 L 官宣：10 月 31 日发布并开启预售](https://www.ithome.com/0/728/353.htm) |
-| 10 | [蔚来回应“NIO Phone 手机是否由 OPPO 代工”：确实谈过合作，但没成功](https://www.ithome.com/0/728/407.htm) |
-| 11 | [11.11 今日攻略：iPhone 15 系列现货 + 立减 801 元，小米一级能效 1.5 匹空调 1409 元新低](https://www.ithome.com/0/728/418.htm) |
-| 12 | [小米 Redmi K60 至尊版机型全系最高降价 200 元，2599 元起](https://www.ithome.com/0/728/372.htm) |
+| 10 | [11.11 今日攻略：iPhone 15 系列现货 + 立减 801 元，小米一级能效 1.5 匹空调 1409 元新低](https://www.ithome.com/0/728/418.htm) |
+| 11 | [小米 Redmi K60 至尊版机型全系最高降价 200 元，2599 元起](https://www.ithome.com/0/728/372.htm) |
+| 12 | [英伟达 RTX 4080 SUPER、4070 Ti SUPER 、4070 SUPER 显卡规格曝光](https://www.ithome.com/0/728/447.htm) |
