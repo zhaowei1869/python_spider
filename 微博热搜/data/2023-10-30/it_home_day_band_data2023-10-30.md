@@ -1,16 +1,16 @@
-#### 2023-10-30_13-00  IT之家日榜
+#### 2023-10-30_14-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [大量海外华为 / 荣耀用户反馈称 Google 应用被手机识别为木马](https://www.ithome.com/0/728/431.htm) |
 | 2 | [京东 iPhone 15 256G 低至 6198 元，iPhone 15 Pro Max 现货立减 600 元](https://www.ithome.com/0/728/380.htm) |
-| 3 | [《英雄联盟》S13 全球总决赛瑞士轮收官：LPL 四支战队首次携手打入 8 强且完美避免内战](https://www.ithome.com/0/728/415.htm) |
-| 4 | [温度高达 5000℃，水不沸腾，反而结冰，科学家发现水的一种新形态](https://www.ithome.com/0/728/430.htm) |
+| 3 | [温度高达 5000℃，水不沸腾，反而结冰，科学家发现水的一种新形态](https://www.ithome.com/0/728/430.htm) |
+| 4 | [《英雄联盟》S13 全球总决赛瑞士轮收官：LPL 四支战队首次携手打入 8 强且完美避免内战](https://www.ithome.com/0/728/415.htm) |
 | 5 | [为什么说中国现在非常缺石油](https://www.ithome.com/0/728/417.htm) |
 | 6 | [“中国电车没有技术惊喜”，日本新造车社长狂言：只是排列 APP 图标](https://www.ithome.com/0/728/370.htm) |
 | 7 | [11.11 今日攻略：iPhone 15 系列现货 + 立减 801 元，小米一级能效 1.5 匹空调 1409 元新低](https://www.ithome.com/0/728/418.htm) |
-| 8 | [蔚来回应“NIO Phone 手机是否由 OPPO 代工”：确实谈过合作，但没成功](https://www.ithome.com/0/728/407.htm) |
-| 9 | [华为申请注册“遥遥领先”商标](https://www.ithome.com/0/728/501.htm) |
-| 10 | [小米 Redmi K60 至尊版机型全系最高降价 200 元，2599 元起](https://www.ithome.com/0/728/372.htm) |
-| 11 | [英伟达 RTX 4080 SUPER、4070 Ti SUPER 、4070 SUPER 显卡规格曝光](https://www.ithome.com/0/728/447.htm) |
-| 12 | [苹果发布会前夕，iPad mini、MacBook Pro 等电池被重新提交到监管数据库](https://www.ithome.com/0/728/448.htm) |
+| 8 | [华为申请注册“遥遥领先”商标](https://www.ithome.com/0/728/501.htm) |
+| 9 | [蔚来回应“NIO Phone 手机是否由 OPPO 代工”：确实谈过合作，但没成功](https://www.ithome.com/0/728/407.htm) |
+| 10 | [小米 14 手机额外 8GB 存储扩容：老机型不支持，后续向友商开放](https://www.ithome.com/0/728/528.htm) |
+| 11 | [小米 Redmi K60 至尊版机型全系最高降价 200 元，2599 元起](https://www.ithome.com/0/728/372.htm) |
+| 12 | [英伟达 RTX 4080 SUPER、4070 Ti SUPER 、4070 SUPER 显卡规格曝光](https://www.ithome.com/0/728/447.htm) |
