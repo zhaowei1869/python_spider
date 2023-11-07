@@ -1,4 +1,4 @@
-#### 2023-11-07_17-00  IT之家日榜
+#### 2023-11-07_18-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -12,5 +12,5 @@
 | 8 | [AITO 问界汽车下场“科普”AEB：拒绝“无效刹车”，不打无谓嘴仗](https://www.ithome.com/0/730/461.htm) |
 | 9 | [消息称小米 Redmi K70 机型搭载骁龙 8 Gen 2，K70 Pro 为骁龙 8 Gen 3](https://www.ithome.com/0/730/553.htm) |
 | 10 | [腾讯游戏《节奏大师》今日回归，iOS 版现已重新上架苹果 App Store](https://www.ithome.com/0/730/526.htm) |
-| 11 | [荷兰光刻机巨头阿斯麦：对中国市场明年业务非常乐观](https://www.ithome.com/0/730/430.htm) |
-| 12 | [梦幻联动，魅族 PANDAER 为小米 14 手机壳“征集灵感”](https://www.ithome.com/0/730/427.htm) |
+| 11 | [微软 Office 2024 预览版提前泄露，官方回应：未来一片光明](https://www.ithome.com/0/730/558.htm) |
+| 12 | [小米宣布成为西班牙智能手机出货量第一品牌](https://www.ithome.com/0/730/533.htm) |
