@@ -1,16 +1,16 @@
-#### 2023-11-11_17-00  IT之家日榜
+#### 2023-11-11_18-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [华为、荣耀、小米、OPPO、vivo、中兴、魅族在列，中国电信推动“旗舰手机标配”卫星直连](https://www.ithome.com/0/731/639.htm) |
-| 2 | [你好！光棍节：2 分钟速读 11.11 全网巅峰 24 小时攻略，iPhone 15 Pro Max 立减 1100 元新低](https://www.ithome.com/0/731/755.htm) |
-| 3 | [阿维塔 12 正式上市：华为、宁德时代、长安汽车投入超 20 亿，30.08 万元起售](https://www.ithome.com/0/731/731.htm) |
-| 4 | [限量 300 件试试手气：iPhone 15 手机 2999 元京东百亿补贴](https://www.ithome.com/0/731/686.htm) |
-| 5 | [再降 20 元：华为 nova 11 SE 手机 1879 元 11.11 破冰新低](https://www.ithome.com/0/731/637.htm) |
-| 6 | [《惊奇队长 2》内地上映首日票房破 3000 万，豆瓣开分 5.5](https://www.ithome.com/0/731/747.htm) |
-| 7 | [京东苹果 11.11 狂促 20 点加码：iPhone 15 系列至高立减 1100 元](https://www.ithome.com/0/731/698.htm) |
-| 8 | [8GB 内存够用吗？和苹果 16GB M3 MacBook Pro 性能实测对比](https://www.ithome.com/0/731/767.htm) |
-| 9 | [梁朝伟亮相阿维塔 12 新车发布会，将担任品牌全球代言人](https://www.ithome.com/0/731/732.htm) |
-| 10 | [苹果 Vision Pro 头显现“国产山寨版”：内置安卓 8.1，售价仅原版 1/10](https://www.ithome.com/0/731/738.htm) |
-| 11 | [苹果 Mac mini 好搭档：小米 Redmi 4K 显示器 1309 元好价再现](https://www.ithome.com/0/731/756.htm) |
-| 12 | [东风汽车宣布将与一汽、长安共同打造车用操作系统](https://www.ithome.com/0/731/744.htm) |
+| 1 | [你好！光棍节：2 分钟速读 11.11 全网巅峰 24 小时攻略，iPhone 15 Pro Max 立减 1100 元新低](https://www.ithome.com/0/731/755.htm) |
+| 2 | [阿维塔 12 正式上市：华为、宁德时代、长安汽车投入超 20 亿，30.08 万元起售](https://www.ithome.com/0/731/731.htm) |
+| 3 | [限量 300 件试试手气：iPhone 15 手机 2999 元京东百亿补贴](https://www.ithome.com/0/731/686.htm) |
+| 4 | [《惊奇队长 2》内地上映首日票房破 3000 万，豆瓣开分 5.5](https://www.ithome.com/0/731/747.htm) |
+| 5 | [京东苹果 11.11 狂促 20 点加码：iPhone 15 系列至高立减 1100 元](https://www.ithome.com/0/731/698.htm) |
+| 6 | [8GB 内存够用吗？和苹果 16GB M3 MacBook Pro 性能实测对比](https://www.ithome.com/0/731/767.htm) |
+| 7 | [梁朝伟亮相阿维塔 12 新车发布会，将担任品牌全球代言人](https://www.ithome.com/0/731/732.htm) |
+| 8 | [苹果 Vision Pro 头显现“国产山寨版”：内置安卓 8.1，售价仅原版 1/10](https://www.ithome.com/0/731/738.htm) |
+| 9 | [苹果 Mac mini 好搭档：小米 Redmi 4K 显示器 1309 元好价再现](https://www.ithome.com/0/731/756.htm) |
+| 10 | [东风汽车宣布将与一汽、长安共同打造车用操作系统](https://www.ithome.com/0/731/744.htm) |
+| 11 | [40 年前的今天，微软 Windows 1.0 操作系统首次向公众展示](https://www.ithome.com/0/731/754.htm) |
+| 12 | [上市价 2488 元：华为 WATCH GT 3 Pro 智能手表 1483 元京东自营大促](https://www.ithome.com/0/731/749.htm) |
