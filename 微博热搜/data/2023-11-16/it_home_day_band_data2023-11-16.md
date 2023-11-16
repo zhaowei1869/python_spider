@@ -1,4 +1,4 @@
-#### 2023-11-16_12-00  IT之家日榜
+#### 2023-11-16_13-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -8,9 +8,9 @@
 | 4 | [苹果 iPhone SE 4 渲染：4800 万主摄、6.1 英寸屏幕、USB-C 端口](https://www.ithome.com/0/732/738.htm) |
 | 5 | [消息称小米汽车生产资质“借用”北汽集团，由自建工厂生产](https://www.ithome.com/0/732/797.htm) |
 | 6 | [消息称小米汽车已实现小批量试生产，新车预计明年 2 月上市](https://www.ithome.com/0/732/685.htm) |
-| 7 | [4 槽位，英伟达 RTX 4090 Ti“Titan”显卡再曝光](https://www.ithome.com/0/732/677.htm) |
-| 8 | [网易再回应“腾讯二手制冰机”事件：已将从雀巢处采购的咖啡粉送检](https://www.ithome.com/0/732/694.htm) |
-| 9 | [小米正开设多个汽车销售类相关岗位，门店店长底薪可达 2 万元](https://www.ithome.com/0/732/785.htm) |
-| 10 | [百度李彦宏：国内两百多个大模型调用量加起来还没文心一个多](https://www.ithome.com/0/732/825.htm) |
-| 11 | [荣耀 30、荣耀 V30 等 8 款设备开启华为鸿蒙 HarmonyOS 4 正式版升级](https://www.ithome.com/0/732/798.htm) |
-| 12 | [英伟达 RTX 50 显卡新爆料：支持 384bit GDDR7 显存](https://www.ithome.com/0/732/824.htm) |
+| 7 | [网易再回应“腾讯二手制冰机”事件：已将从雀巢处采购的咖啡粉送检](https://www.ithome.com/0/732/694.htm) |
+| 8 | [小米正开设多个汽车销售类相关岗位，门店店长底薪可达 2 万元](https://www.ithome.com/0/732/785.htm) |
+| 9 | [百度李彦宏：国内两百多个大模型调用量加起来还没文心一个多](https://www.ithome.com/0/732/825.htm) |
+| 10 | [荣耀 30、荣耀 V30 等 8 款设备开启华为鸿蒙 HarmonyOS 4 正式版升级](https://www.ithome.com/0/732/798.htm) |
+| 11 | [英伟达 RTX 50 显卡新爆料：支持 384bit GDDR7 显存](https://www.ithome.com/0/732/824.htm) |
+| 12 | [微软关闭 Win11 免费升级通道，部分用户遭遇 Windows 激活问题](https://www.ithome.com/0/732/822.htm) |
