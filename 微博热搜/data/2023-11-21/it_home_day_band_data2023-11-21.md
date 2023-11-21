@@ -1,4 +1,16 @@
-#### 2023-11-21_11-31  IT之家日榜
+#### 2023-11-21_12-31  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
+| 1 | [“电视家 跑路”登上热搜，官方称服务遇到问题并将发放退款](https://www.ithome.com/0/733/855.htm) |
+| 2 | [小米手机遭刻意抹黑，雷军 @小米品牌安全“出击”](https://www.ithome.com/0/733/743.htm) |
+| 3 | [因阿尔特曼确认出走，消息称又有数十名 OpenAI 员工宣布辞职](https://www.ithome.com/0/733/770.htm) |
+| 4 | [国内油价明晚调整，92 号汽油有望重回 7 元时代](https://www.ithome.com/0/733/814.htm) |
+| 5 | [消息称小米 5 款机型将获澎湃 OS 稳定版更新：小米 13 Ultra、Redmi K60 Pro 等](https://www.ithome.com/0/733/722.htm) |
+| 6 | [纳德拉官宣 OpenAI 创始人 Sam Altman 和 Brockman 将加入微软](https://www.ithome.com/0/733/764.htm) |
+| 7 | [华为：海外手机暂无使用鸿蒙 HarmonyOS 的计划](https://www.ithome.com/0/733/824.htm) |
+| 8 | [小米 14 手机推送澎湃 OS 1.0.23.11.17.DEV 开发版更新：新增支持 HyperMind](https://www.ithome.com/0/733/844.htm) |
+| 9 | [闹大了：大多数 OpenAI 员工威胁要辞职加入微软，除非解散董事会并请回阿尔特曼](https://www.ithome.com/0/733/851.htm) |
+| 10 | [360 借条首发融入华为鸿蒙生态，奇富科技发布鸿蒙元服务 1.0 版本](https://www.ithome.com/0/733/762.htm) |
+| 11 | [消息称华为麒麟 5G 平台即将落地中端机型，但产量不大](https://www.ithome.com/0/733/748.htm) |
+| 12 | [业内人士回应华为鸿蒙系统“明年不兼容安卓”传闻：有计划但内部未发通知](https://www.ithome.com/0/733/750.htm) |
