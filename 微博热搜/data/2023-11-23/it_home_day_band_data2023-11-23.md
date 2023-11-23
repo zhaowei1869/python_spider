@@ -1,4 +1,4 @@
-#### 2023-11-23_17-03  IT之家日榜
+#### 2023-11-23_18-03  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -7,10 +7,10 @@
 | 3 | [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://www.ithome.com/0/734/363.htm) |
 | 4 | [120 小时后杀回 OpenAI，阿尔特曼“闹剧”终了还是序幕](https://www.ithome.com/0/734/356.htm) |
 | 5 | [Redmi K70 手机即将发布？小米王腾发文称“明天早上见，不负期待”](https://www.ithome.com/0/734/398.htm) |
-| 6 | [2023 年中国科学院、中国工程院院士增选当选名单公布，共 133 人](https://www.ithome.com/0/734/339.htm) |
-| 7 | [测试称高通骁龙 8 Gen 3 大核功耗增加 28%，性能增加 13%](https://www.ithome.com/0/734/470.htm) |
-| 8 | [小米汽车首款车型 SU7 路试谍照曝光，将于 2024 年上半年发布](https://www.ithome.com/0/734/458.htm) |
-| 9 | [小米官宣 Redmi 十周年暨 K70 系列手机新品发布会定档 11 月 29 日](https://www.ithome.com/0/734/437.htm) |
-| 10 | [电视家部分用户已收到退款，此前出现无法收看电视直播的情况](https://www.ithome.com/0/734/378.htm) |
-| 11 | [苹果 iPhone 15 在韩国大卖，日本人却青睐旧款 iPhone 13 mini](https://www.ithome.com/0/734/403.htm) |
-| 12 | [一汽大众 ID.7 VIZZION 首发版预售：定位纯电旗舰轿车，23.777 万元](https://www.ithome.com/0/734/366.htm) |
+| 6 | [测试称高通骁龙 8 Gen 3 大核功耗增加 28%，性能增加 13%](https://www.ithome.com/0/734/470.htm) |
+| 7 | [小米汽车首款车型 SU7 路试谍照曝光，将于 2024 年上半年发布](https://www.ithome.com/0/734/458.htm) |
+| 8 | [小米官宣 Redmi 十周年暨 K70 系列手机新品发布会定档 11 月 29 日](https://www.ithome.com/0/734/437.htm) |
+| 9 | [电视家部分用户已收到退款，此前出现无法收看电视直播的情况](https://www.ithome.com/0/734/378.htm) |
+| 10 | [苹果 iPhone 15 在韩国大卖，日本人却青睐旧款 iPhone 13 mini](https://www.ithome.com/0/734/403.htm) |
+| 11 | [一汽大众 ID.7 VIZZION 首发版预售：定位纯电旗舰轿车，23.777 万元](https://www.ithome.com/0/734/366.htm) |
+| 12 | [TCL 芯片公司摩星半导体被曝解散，当天员工打包走人](https://www.ithome.com/0/734/369.htm) |
