@@ -1,4 +1,4 @@
-#### 2023-11-23_10-03  IT之家日榜
+#### 2023-11-23_11-03  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -6,11 +6,11 @@
 | 2 | [警方通报斗鱼 CEO 被捕：陈某杰涉嫌开设赌场罪被执行逮捕](https://www.ithome.com/0/734/249.htm) |
 | 3 | [Redmi K70E 手机真机曝光，屏幕边框控制出色](https://www.ithome.com/0/734/314.htm) |
 | 4 | [魅族 21 手机拍摄样张公布：骁龙 8 Gen 3 处理器，11 月 30 日正式发布](https://www.ithome.com/0/734/374.htm) |
-| 5 | [特斯拉“刹车失灵”事件核心成员被判道歉](https://www.ithome.com/0/734/202.htm) |
-| 6 | [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://www.ithome.com/0/734/363.htm) |
-| 7 | [Redmi K70 E 手机 5500mAh + 90W 快充，首发小米海星算法可修复电池技术](https://www.ithome.com/0/734/251.htm) |
-| 8 | [120 小时后杀回 OpenAI，阿尔特曼“闹剧”终了还是序幕](https://www.ithome.com/0/734/356.htm) |
-| 9 | [2023 年中国科学院、中国工程院院士增选当选名单公布，共 133 人](https://www.ithome.com/0/734/339.htm) |
-| 10 | [Redmi K70 手机即将发布？小米王腾发文称“明天早上见，不负期待”](https://www.ithome.com/0/734/398.htm) |
+| 5 | [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://www.ithome.com/0/734/363.htm) |
+| 6 | [Redmi K70 E 手机 5500mAh + 90W 快充，首发小米海星算法可修复电池技术](https://www.ithome.com/0/734/251.htm) |
+| 7 | [120 小时后杀回 OpenAI，阿尔特曼“闹剧”终了还是序幕](https://www.ithome.com/0/734/356.htm) |
+| 8 | [2023 年中国科学院、中国工程院院士增选当选名单公布，共 133 人](https://www.ithome.com/0/734/339.htm) |
+| 9 | [Redmi K70 手机即将发布？小米王腾发文称“明天早上见，不负期待”](https://www.ithome.com/0/734/398.htm) |
+| 10 | [消息称小米 Redmi K70 Pro 机型 12GB 内存起步，采用金属边框](https://www.ithome.com/0/734/394.htm) |
 | 11 | [2024 款奔驰 S 级上市：售价 96.26 万元起，部分车型涨价 4.06 万元](https://www.ithome.com/0/734/309.htm) |
 | 12 | [魅族 21 手机搭载魅族最大体积马达，定名 mEngine Ultra](https://www.ithome.com/0/734/211.htm) |
