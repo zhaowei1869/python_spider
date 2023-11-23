@@ -1,4 +1,4 @@
-#### 2023-11-22_22-00  IT之家日榜
+#### 2023-11-22_23-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [2023 年中国科学院、中国工程院院士增选当选名单公布，共 133 人](https://www.ithome.com/0/734/339.htm) |
 | 6 | [努比亚 Z60 Ultra 拍摄样张公布：号称“拍星星的手机”，预计下月发布](https://www.ithome.com/0/734/141.htm) |
 | 7 | [魅族 21 手机搭载魅族最大体积马达，定名 mEngine Ultra](https://www.ithome.com/0/734/211.htm) |
-| 8 | [李彦宏：文心大模型重构后的广告系统，将在四季度为百度带来数亿元增量收入](https://www.ithome.com/0/734/133.htm) |
+| 8 | [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://www.ithome.com/0/734/363.htm) |
 | 9 | [120 小时后杀回 OpenAI，阿尔特曼“闹剧”终了还是序幕](https://www.ithome.com/0/734/356.htm) |
-| 10 | [DXOMARK 公布小米 MIX Fold 3 折叠屏手机屏幕得分，位列第 28](https://www.ithome.com/0/734/138.htm) |
-| 11 | [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://www.ithome.com/0/734/363.htm) |
-| 12 | [2024 款奔驰 S 级上市：售价 96.26 万元起，部分车型涨价 4.06 万元](https://www.ithome.com/0/734/309.htm) |
+| 10 | [2024 款奔驰 S 级上市：售价 96.26 万元起，部分车型涨价 4.06 万元](https://www.ithome.com/0/734/309.htm) |
+| 11 | [OpenAI：已与阿尔特曼原则上达成协议，让他复职 CEO 并重组董事会](https://www.ithome.com/0/734/268.htm) |
+| 12 | [消息称拼多多已杀入大模型领域，年薪百万招兵买马](https://www.ithome.com/0/734/173.htm) |
