@@ -1,16 +1,16 @@
-#### 2023-11-23_18-03  IT之家日榜
+#### 2023-11-23_19-03  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [消息称小米 Redmi K70 Pro 机型 12GB 内存起步，采用金属边框](https://www.ithome.com/0/734/394.htm) |
 | 2 | [魅族 21 手机拍摄样张公布：骁龙 8 Gen 3 处理器，11 月 30 日正式发布](https://www.ithome.com/0/734/374.htm) |
 | 3 | [i5-12500H：小米 RedmiBook Pro 14 笔记本京东限量 2999 元](https://www.ithome.com/0/734/363.htm) |
-| 4 | [120 小时后杀回 OpenAI，阿尔特曼“闹剧”终了还是序幕](https://www.ithome.com/0/734/356.htm) |
+| 4 | [测试称高通骁龙 8 Gen 3 大核功耗增加 28%，性能增加 13%](https://www.ithome.com/0/734/470.htm) |
 | 5 | [Redmi K70 手机即将发布？小米王腾发文称“明天早上见，不负期待”](https://www.ithome.com/0/734/398.htm) |
-| 6 | [测试称高通骁龙 8 Gen 3 大核功耗增加 28%，性能增加 13%](https://www.ithome.com/0/734/470.htm) |
-| 7 | [小米汽车首款车型 SU7 路试谍照曝光，将于 2024 年上半年发布](https://www.ithome.com/0/734/458.htm) |
-| 8 | [小米官宣 Redmi 十周年暨 K70 系列手机新品发布会定档 11 月 29 日](https://www.ithome.com/0/734/437.htm) |
-| 9 | [电视家部分用户已收到退款，此前出现无法收看电视直播的情况](https://www.ithome.com/0/734/378.htm) |
-| 10 | [苹果 iPhone 15 在韩国大卖，日本人却青睐旧款 iPhone 13 mini](https://www.ithome.com/0/734/403.htm) |
+| 6 | [小米汽车首款车型 SU7 路试谍照曝光，将于 2024 年上半年发布](https://www.ithome.com/0/734/458.htm) |
+| 7 | [小米官宣 Redmi 十周年暨 K70 系列手机新品发布会定档 11 月 29 日](https://www.ithome.com/0/734/437.htm) |
+| 8 | [电视家部分用户已收到退款，此前出现无法收看电视直播的情况](https://www.ithome.com/0/734/378.htm) |
+| 9 | [苹果 iPhone 15 在韩国大卖，日本人却青睐旧款 iPhone 13 mini](https://www.ithome.com/0/734/403.htm) |
+| 10 | [红魔 9 Pro/+ 系列游戏手机发布：行业唯一背部纯平旗舰，售价 4399 元起](https://www.ithome.com/0/734/536.htm) |
 | 11 | [一汽大众 ID.7 VIZZION 首发版预售：定位纯电旗舰轿车，23.777 万元](https://www.ithome.com/0/734/366.htm) |
 | 12 | [TCL 芯片公司摩星半导体被曝解散，当天员工打包走人](https://www.ithome.com/0/734/369.htm) |
