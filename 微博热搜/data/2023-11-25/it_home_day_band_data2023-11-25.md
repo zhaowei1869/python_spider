@@ -1,4 +1,4 @@
-#### 2023-11-25_11-17  IT之家日榜
+#### 2023-11-25_13-17  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [吉利星瑞 L / 星越 L 智擎车型 12 月 3 日上市，预售 13.17 万元起](https://www.ithome.com/0/734/879.htm) |
 | 6 | [哈工大同一宿舍 3 个人，全部当选院士](https://www.ithome.com/0/734/887.htm) |
 | 7 | [比亚迪秦 PLUS DM-i 冠军版车型限时优惠 1 万元：相当于 8.98 万元起售](https://www.ithome.com/0/734/892.htm) |
-| 8 | [2024 款吉利豪越 L 上市：全系车型 7 座布局，12.79 万元起](https://www.ithome.com/0/734/902.htm) |
-| 9 | [中国石化：新一代加油卡系统全国上线](https://www.ithome.com/0/734/880.htm) |
-| 10 | [比亚迪汉车型在阿联酋上市，迪拜全新旗舰展厅开幕](https://www.ithome.com/0/734/767.htm) |
+| 8 | [中国石化：新一代加油卡系统全国上线](https://www.ithome.com/0/734/880.htm) |
+| 9 | [2024 款吉利豪越 L 上市：全系车型 7 座布局，12.79 万元起](https://www.ithome.com/0/734/902.htm) |
+| 10 | [三星 Galaxy S24 Ultra 真机首次曝光：近乎直屏设计，机身更加方正](https://www.ithome.com/0/734/897.htm) |
 | 11 | [小米预告 Redmi Book 14/16 2024 笔记本：47W 满血性能，接入 Xiaomi HyperOS Connect](https://www.ithome.com/0/734/835.htm) |
-| 12 | [三星 Galaxy S24 Ultra 真机首次曝光：近乎直屏设计，机身更加方正](https://www.ithome.com/0/734/897.htm) |
+| 12 | [继续与华为解绑，荣耀 100 系列手机首次内置自家云服务、钱包等应用](https://www.ithome.com/0/734/775.htm) |
