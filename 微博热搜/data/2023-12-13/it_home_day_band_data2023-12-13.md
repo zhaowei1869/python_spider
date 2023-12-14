@@ -1,16 +1,4 @@
-#### 2023-12-13_22-00  IT之家日榜
+#### 2023-12-13_23-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [全球仅一台，只送不卖！realme 推出真我 GT5 Pro 2 亿销量纪念版机型](https://www.ithome.com/0/738/842.htm) |
-| 2 | [华为首款开放式耳机 FreeClip 正式发布，定价 199 欧元](https://www.ithome.com/0/738/847.htm) |
-| 3 | [澎湃 OS 更新将自动拦截色情 App？小米王化辟谣](https://www.ithome.com/0/739/002.htm) |
-| 4 | [岚图 FREE“懂车帝冬测”后台数据公布：左前车窗非关闭状态 1328s](https://www.ithome.com/0/738/873.htm) |
-| 5 | [懂车帝再次回应冬测质疑：所有车型均没有商业化，已对造谣者取证](https://www.ithome.com/0/738/918.htm) |
-| 6 | [消息称华为 nova 12 系列手机搭载双向卫星通信、麒麟芯片等](https://www.ithome.com/0/738/917.htm) |
-| 7 | [E3 游戏展永久停办，20 多年展会历程画上句号](https://www.ithome.com/0/738/841.htm) |
-| 8 | [苹果 iPhone 16 前瞻：新增操作按钮和拍照按钮、调整相机岛设计](https://www.ithome.com/0/738/865.htm) |
-| 9 | [首款鸿蒙智联电助力自行车：华为智选喜德盛“都市骑行家”发布，6999 元](https://www.ithome.com/0/738/908.htm) |
-| 10 | [ChatGPT 变懒原因：正在给自己放寒假！已被网友测出](https://www.ithome.com/0/738/979.htm) |
-| 11 | [realme 徐起加入“小米一加亮度论战”：真我 GT5 Pro 手机“手动最高 1000 尼特”](https://www.ithome.com/0/739/004.htm) |
-| 12 | [索尼 PS5 Pro 游戏主机 GPU 新爆料：配 60 个 CU、3840 个流处理器](https://www.ithome.com/0/738/922.htm) |
