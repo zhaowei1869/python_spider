@@ -1,4 +1,4 @@
-#### 2023-12-20_11-00  IT之家日榜
+#### 2023-12-20_13-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -6,11 +6,11 @@
 | 2 | [3999 元起，努比亚 Z60 Ultra 手机发布：首发 IP68 屏下前摄、骁龙 8 Gen 3](https://www.ithome.com/0/740/219.htm) |
 | 3 | [小米汽车泄密及谣言声明：涉及媒体“ZAKER”“小白买车”员工、汽车部 3 名前员工](https://www.ithome.com/0/740/317.htm) |
 | 4 | [首发立减 300 元：努比亚 Z60 Ultra 手机 3999 元起开抢 + 24 期免息](https://www.ithome.com/0/740/222.htm) |
-| 5 | [华为已有 400 多家合作伙伴启动鸿蒙原生应用开发](https://www.ithome.com/0/740/147.htm) |
+| 5 | [WPS Office 国内个人版今日起正式关闭第三方商业广告](https://www.ithome.com/0/740/399.htm) |
 | 6 | [小米宣布为甘肃地震中受损的电视 / 空调 / 冰箱 / 洗衣机产品提供免费检测维修服务](https://www.ithome.com/0/740/360.htm) |
-| 7 | [机械革命全新轻薄游戏本曝光：15.3 英寸金属机身，新一代处理器](https://www.ithome.com/0/740/145.htm) |
-| 8 | [苹果 iPhone 15 Pro 试玩《生化危机 4：重制版》：无法稳定 30 帧](https://www.ithome.com/0/740/144.htm) |
-| 9 | [诺基亚联合德国 i.safe 推出 IS540.2 工业手机：高通 QCM6490 芯片、4400 毫安时电池](https://www.ithome.com/0/740/234.htm) |
-| 10 | [（更新）消息称抖音洽谈收购饿了么，内部人士否认](https://www.ithome.com/0/740/231.htm) |
-| 11 | [现代汽车宣布 1 万卢布出售俄罗斯工厂，约合 789 元人民币](https://www.ithome.com/0/740/325.htm) |
-| 12 | [WPS Office 国内个人版今日起正式关闭第三方商业广告](https://www.ithome.com/0/740/399.htm) |
+| 7 | [（更新）消息称抖音洽谈收购饿了么，内部人士否认](https://www.ithome.com/0/740/231.htm) |
+| 8 | [诺基亚联合德国 i.safe 推出 IS540.2 工业手机：高通 QCM6490 芯片、4400 毫安时电池](https://www.ithome.com/0/740/234.htm) |
+| 9 | [现代汽车宣布 1 万卢布出售俄罗斯工厂，约合 789 元人民币](https://www.ithome.com/0/740/325.htm) |
+| 10 | [苹果 iOS 17.2.1 正式版发布：修复某些场景下耗电过快问题](https://www.ithome.com/0/740/365.htm) |
+| 11 | [消息称 ofo 创始人戴威美国创业项目再失败，About Time Coffee 咖啡馆关到仅剩一家](https://www.ithome.com/0/740/348.htm) |
+| 12 | [摩尔线程大模型智算加速卡 MTT S4000 发布，配备 48GB 显存](https://www.ithome.com/0/740/281.htm) |
