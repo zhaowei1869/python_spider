@@ -1,16 +1,16 @@
-#### 2023-12-22_10-00  IT之家日榜
+#### 2023-12-22_11-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [魅族开启 2023 手机百花奖评选：华为 Mate 60 Pro、魅族 21、小米 14 等入围最佳人气手机奖](https://www.ithome.com/0/740/676.htm) |
 | 2 | [荣耀 90GT 手机发布：搭载第二代骁龙 8 芯片，限时优惠价 2599 元起](https://www.ithome.com/0/740/804.htm) |
-| 3 | [华为 nova 12 Ultra 手机配色公布：黑、白、蓝三款，预计为素皮材质](https://www.ithome.com/0/740/633.htm) |
-| 4 | [京东快递首批试点 9 省市内“次晨达”，最快 8 点到](https://www.ithome.com/0/740/796.htm) |
-| 5 | [4599 元，小米 Redmi K70 Pro 冠军版手机发布：联名兰博基尼，24GB + 1TB 顶配](https://www.ithome.com/0/740/801.htm) |
-| 6 | [问界 M9 搭载华为智能灯光系统，支持 100 + 英寸巨幕投影](https://www.ithome.com/0/740/759.htm) |
+| 3 | [京东快递首批试点 9 省市内“次晨达”，最快 8 点到](https://www.ithome.com/0/740/796.htm) |
+| 4 | [4599 元，小米 Redmi K70 Pro 冠军版手机发布：联名兰博基尼，24GB + 1TB 顶配](https://www.ithome.com/0/740/801.htm) |
+| 5 | [问界 M9 搭载华为智能灯光系统，支持 100 + 英寸巨幕投影](https://www.ithome.com/0/740/759.htm) |
+| 6 | [Midjourney V6 史诗级升级，网友惊呼太逼真！神图接连曝出，传今明两天上线](https://www.ithome.com/0/740/837.htm) |
 | 7 | [【IT之家开箱】Redmi K70 Pro 冠军版图赏：联名兰博基尼，超跑附体](https://www.ithome.com/0/740/805.htm) |
-| 8 | [Midjourney V6 史诗级升级，网友惊呼太逼真！神图接连曝出，传今明两天上线](https://www.ithome.com/0/740/837.htm) |
-| 9 | [荣耀平板 9 正式发布：可选 12.1 英寸“纸感护眼柔光雾面屏”、高通骁龙 6 Gen 1 处理器，1499 元起](https://www.ithome.com/0/740/807.htm) |
-| 10 | [云闪付 App 启动鸿蒙原生应用开发，中国银联与华为合作再进一步](https://www.ithome.com/0/740/652.htm) |
-| 11 | [免费用户也能用：ChatGPT 语音功能现已全面开放](https://www.ithome.com/0/740/826.htm) |
-| 12 | [阿里云宣布旗下 Linux 发行版 Anolis OS“龙蜥操作系统”装机量超 600 万，生态“日见成熟”](https://www.ithome.com/0/740/838.htm) |
+| 8 | [荣耀平板 9 正式发布：可选 12.1 英寸“纸感护眼柔光雾面屏”、高通骁龙 6 Gen 1 处理器，1499 元起](https://www.ithome.com/0/740/807.htm) |
+| 9 | [免费用户也能用：ChatGPT 语音功能现已全面开放](https://www.ithome.com/0/740/826.htm) |
+| 10 | [阿里云宣布旗下 Linux 发行版 Anolis OS“龙蜥操作系统”装机量超 600 万，生态“日见成熟”](https://www.ithome.com/0/740/838.htm) |
+| 11 | [天涯创始人称明年重启，将推官方直播和天涯神贴](https://www.ithome.com/0/740/790.htm) |
+| 12 | [苹果取得技术突破：有望在 iPhone 上运行大型语言模型](https://www.ithome.com/0/740/808.htm) |
