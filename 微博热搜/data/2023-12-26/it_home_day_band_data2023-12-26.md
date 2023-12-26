@@ -1,16 +1,16 @@
-#### 2023-12-26_10-00  IT之家日榜
+#### 2023-12-26_11-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [首搭麒麟 8000 处理器？华为 nova 12 Pro 手机配置信息曝光](https://www.ithome.com/0/741/326.htm) |
-| 2 | [麒麟 9000SL 处理器，华为 nova 12 Ultra 手机配置曝光](https://www.ithome.com/0/741/461.htm) |
-| 3 | [雷军再谈小米汽车：坚持正向开发，“重新定义”汽车工业技术栈](https://www.ithome.com/0/741/362.htm) |
-| 4 | [网易对与暴雪重新合作不予回应，已解散团队短时间内难以重组](https://www.ithome.com/0/741/502.htm) |
-| 5 | [暴雪、网易“复婚”？消息称双方重新合作，《魔兽世界》国服回归有戏](https://www.ithome.com/0/741/480.htm) |
-| 6 | [我国研究提出 1000km/h 超高速磁悬浮列车，上海-杭州等 6 条线路建议优先建设](https://www.ithome.com/0/741/335.htm) |
-| 7 | [京东要卖特斯拉汽车了？官宣 12 月 31 日见](https://www.ithome.com/0/741/367.htm) |
-| 8 | [Flyme 征集中文 OS 名拟获奖名单公示，4 人获得华为、小米、魅族手机组合](https://www.ithome.com/0/741/425.htm) |
-| 9 | [华为公布鸿蒙 HarmonyOS 4 升级新进展，华为 P30 等 12 款手机开启 Beta 招募](https://www.ithome.com/0/741/401.htm) |
-| 10 | [华为 Mate 50 / Pro、Pocket S 官翻机上架，售 3699/4499 元、3899 元](https://www.ithome.com/0/741/495.htm) |
-| 11 | [消息称小米新车设计、澎湃车机等有望亮相 12 月 28 日发布会](https://www.ithome.com/0/741/331.htm) |
-| 12 | [中国卫通：因卫星推力器出现故障，中星 6C 寿命减少导致约 2.6 亿元损失](https://www.ithome.com/0/741/467.htm) |
+| 1 | [麒麟 9000SL 处理器，华为 nova 12 Ultra 手机配置曝光](https://www.ithome.com/0/741/461.htm) |
+| 2 | [雷军再谈小米汽车：坚持正向开发，“重新定义”汽车工业技术栈](https://www.ithome.com/0/741/362.htm) |
+| 3 | [网易对与暴雪重新合作不予回应，已解散团队短时间内难以重组](https://www.ithome.com/0/741/502.htm) |
+| 4 | [暴雪、网易“复婚”？消息称双方重新合作，《魔兽世界》国服回归有戏](https://www.ithome.com/0/741/480.htm) |
+| 5 | [我国研究提出 1000km/h 超高速磁悬浮列车，上海-杭州等 6 条线路建议优先建设](https://www.ithome.com/0/741/335.htm) |
+| 6 | [京东要卖特斯拉汽车了？官宣 12 月 31 日见](https://www.ithome.com/0/741/367.htm) |
+| 7 | [Flyme 征集中文 OS 名拟获奖名单公示，4 人获得华为、小米、魅族手机组合](https://www.ithome.com/0/741/425.htm) |
+| 8 | [华为公布鸿蒙 HarmonyOS 4 升级新进展，华为 P30 等 12 款手机开启 Beta 招募](https://www.ithome.com/0/741/401.htm) |
+| 9 | [华为 Mate 50 / Pro、Pocket S 官翻机上架，售 3699/4499 元、3899 元](https://www.ithome.com/0/741/495.htm) |
+| 10 | [消息称小米新车设计、澎湃车机等有望亮相 12 月 28 日发布会](https://www.ithome.com/0/741/331.htm) |
+| 11 | [中国卫通：因卫星推力器出现故障，中星 6C 寿命减少导致约 2.6 亿元损失](https://www.ithome.com/0/741/467.htm) |
+| 12 | [真人互动影像游戏《完蛋！我也能追到美女了！》正式版定档 12 月 29 日，时长约 1 小时](https://www.ithome.com/0/741/508.htm) |
