@@ -1,16 +1,16 @@
-#### 2024-01-02_17-00  IT之家日榜
+#### 2024-01-02_18-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [憋大招？苹果 2023 年首度“停更”iPad](https://www.ithome.com/0/742/787.htm) |
-| 2 | [B站 2023 年度百大 UP 主名单公布](https://www.ithome.com/0/742/881.htm) |
-| 3 | [骁龙 870 + 两年质保：联想小新 Pad Pro 11.2 英寸平板 1279 元腰斩清仓](https://www.ithome.com/0/742/791.htm) |
-| 4 | [小鹏 X9 纯电 MPV 上市：标配后轮转向、双腔空悬，售价 35.98 万元起](https://www.ithome.com/0/742/807.htm) |
-| 5 | [华为何刚：2023 年是鸿蒙原生应用的开局之年，2024 年将是鸿蒙生态全面进化的关键一年](https://www.ithome.com/0/742/819.htm) |
-| 6 | [联想小新固态 U 盘 AMD 限量款开售：128GB、USB 3.2 Gen 1，售价 149 元](https://www.ithome.com/0/742/810.htm) |
+| 1 | [B站 2023 年度百大 UP 主名单公布](https://www.ithome.com/0/742/881.htm) |
+| 2 | [骁龙 870 + 两年质保：联想小新 Pad Pro 11.2 英寸平板 1279 元腰斩清仓](https://www.ithome.com/0/742/791.htm) |
+| 3 | [小鹏 X9 纯电 MPV 上市：标配后轮转向、双腔空悬，售价 35.98 万元起](https://www.ithome.com/0/742/807.htm) |
+| 4 | [华为何刚：2023 年是鸿蒙原生应用的开局之年，2024 年将是鸿蒙生态全面进化的关键一年](https://www.ithome.com/0/742/819.htm) |
+| 5 | [联想小新固态 U 盘 AMD 限量款开售：128GB、USB 3.2 Gen 1，售价 149 元](https://www.ithome.com/0/742/810.htm) |
+| 6 | [苹果 iPhone 15 Pro 现品控问题，消息称部分用户手机后玻璃盖板有粘合剂渗出](https://www.ithome.com/0/742/835.htm) |
 | 7 | [全新宝马 5 系即将下线：3105mm 长轴距，后排配备 31 英寸悬浮式巨幕](https://www.ithome.com/0/742/814.htm) |
-| 8 | [苹果 iPhone 15 Pro 现品控问题，消息称部分用户手机后玻璃盖板有粘合剂渗出](https://www.ithome.com/0/742/835.htm) |
-| 9 | [比亚迪 2023 年新能源汽车销量 302.44 万辆同比增长 62.3%，夺得全球新能源汽车销冠](https://www.ithome.com/0/742/795.htm) |
-| 10 | [2023 年 12 月 Windows 操作系统报告：Win11 份额徘徊不前，Win10 稳坐头把交椅](https://www.ithome.com/0/742/809.htm) |
+| 8 | [比亚迪 2023 年新能源汽车销量 302.44 万辆同比增长 62.3%，夺得全球新能源汽车销冠](https://www.ithome.com/0/742/795.htm) |
+| 9 | [2023 年 12 月 Windows 操作系统报告：Win11 份额徘徊不前，Win10 稳坐头把交椅](https://www.ithome.com/0/742/809.htm) |
+| 10 | [荣耀 Magic6 系列手机外观设计亮相：海湖青配色、“枕形”摄像头](https://www.ithome.com/0/742/854.htm) |
 | 11 | [小米 Redmi Book 16 笔记本 12 代酷睿版开售，到手价 3399 元起](https://www.ithome.com/0/742/798.htm) |
-| 12 | [荣耀 Magic6 系列手机外观设计亮相：海湖青配色、“枕形”摄像头](https://www.ithome.com/0/742/854.htm) |
+| 12 | [消息称小米平板 7 Pro 配 10000mAh 电池、支持 120W 快充](https://www.ithome.com/0/742/847.htm) |
