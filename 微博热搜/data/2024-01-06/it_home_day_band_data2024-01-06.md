@@ -1,4 +1,4 @@
-#### 2024-01-06_19-00  IT之家日榜
+#### 2024-01-06_20-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -10,7 +10,7 @@
 | 6 | [京东方推出 45 英寸 8K 无界智慧屏，吉利银河 E8 车型全球首发](https://www.ithome.com/0/743/636.htm) |
 | 7 | [中国人民银行：2024 年开展整治拒收现金专项行动，稳妥推进数字人民币研发应用](https://www.ithome.com/0/743/627.htm) |
 | 8 | [消息称蔚来手机负责人尹水军将离职，硬件负责人白剑兼管](https://www.ithome.com/0/743/691.htm) |
-| 9 | [腾讯调整 Nintendo Switch 官方店铺运营，微信商城即将暂停服务](https://www.ithome.com/0/743/629.htm) |
-| 10 | [三星承认 One UI 6 缺少“防烧屏机制”，有望本月发布更新修复](https://www.ithome.com/0/743/668.htm) |
-| 11 | [澎湃 OS 走向海外，小米 POCO X6 Pro 手机官宣 1 月 11 日发布](https://www.ithome.com/0/743/640.htm) |
+| 9 | [三星承认 One UI 6 缺少“防烧屏机制”，有望本月发布更新修复](https://www.ithome.com/0/743/668.htm) |
+| 10 | [腾讯调整 Nintendo Switch 官方店铺运营，微信商城即将暂停服务](https://www.ithome.com/0/743/629.htm) |
+| 11 | [三星 Galaxy S24 Ultra 手机真机照片曝光](https://www.ithome.com/0/743/720.htm) |
 | 12 | [三星 Galaxy S24 Ultra 手机官网限定色渲染图曝光，蓝、绿、橙三款](https://www.ithome.com/0/743/688.htm) |
