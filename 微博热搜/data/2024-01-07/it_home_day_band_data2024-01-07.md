@@ -1,16 +1,16 @@
-#### 2024-01-07_13-00  IT之家日榜
+#### 2024-01-07_14-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [几年前论斤称的“电子淘汰产品”，如今却变成“香饽饽”？](https://www.ithome.com/0/743/747.htm) |
 | 2 | [三星 Galaxy S24 Ultra 手机真机照片曝光](https://www.ithome.com/0/743/720.htm) |
 | 3 | [来了！2023 车企收官，仅 4 家达成 KPI，内卷进入 2.0 时代](https://www.ithome.com/0/743/725.htm) |
-| 4 | [理想 L6 车型路试谍照曝光，消息称提前到今年 4 月初发布](https://www.ithome.com/0/743/726.htm) |
-| 5 | [江苏泰兴发现 1 例罕见小 p 血型，出现频率低于百万分之一](https://www.ithome.com/0/743/758.htm) |
-| 6 | [荣耀 Magic6 / Pro / RSR 手机续航参数曝光，最高支持 80W 快充](https://www.ithome.com/0/743/738.htm) |
-| 7 | [苹果 iPhone“电池门”赔款到账，每台手机获赔 92.17 美元](https://www.ithome.com/0/743/765.htm) |
-| 8 | [波音回应 737 MAX 9 飞行事故：正在收集更多信息并与客户取得联系](https://www.ithome.com/0/743/759.htm) |
-| 9 | [东风纳米 01 纯电小车在襄阳量产下线：预售 7.98 万元起，明日上市](https://www.ithome.com/0/743/724.htm) |
-| 10 | [性能最高提升 50%，消息称英伟达最快今年第 4 季度推出 GeForce 50 系列 GPU](https://www.ithome.com/0/743/694.htm) |
-| 11 | [Tech Insights 拆解发现，华为 5nm 的海思麒麟 9006C 芯片由台积电制造](https://www.ithome.com/0/743/772.htm) |
-| 12 | [飞行途中机身破洞，美国阿拉斯加航空宣布停飞 65 架波音 737 MAX 9 飞机](https://www.ithome.com/0/743/728.htm) |
+| 4 | [江苏泰兴发现 1 例罕见小 p 血型，出现频率低于百万分之一](https://www.ithome.com/0/743/758.htm) |
+| 5 | [理想 L6 车型路试谍照曝光，消息称提前到今年 4 月初发布](https://www.ithome.com/0/743/726.htm) |
+| 6 | [苹果 iPhone“电池门”赔款到账，每台手机获赔 92.17 美元](https://www.ithome.com/0/743/765.htm) |
+| 7 | [荣耀 Magic6 / Pro / RSR 手机续航参数曝光，最高支持 80W 快充](https://www.ithome.com/0/743/738.htm) |
+| 8 | [Tech Insights 拆解发现，华为 5nm 的海思麒麟 9006C 芯片由台积电制造](https://www.ithome.com/0/743/772.htm) |
+| 9 | [波音回应 737 MAX 9 飞行事故：正在收集更多信息并与客户取得联系](https://www.ithome.com/0/743/759.htm) |
+| 10 | [东风纳米 01 纯电小车在襄阳量产下线：预售 7.98 万元起，明日上市](https://www.ithome.com/0/743/724.htm) |
+| 11 | [飞行途中机身破洞，美国阿拉斯加航空宣布停飞 65 架波音 737 MAX 9 飞机](https://www.ithome.com/0/743/728.htm) |
+| 12 | [OPPO Find X7 系列手机预热：双向隐私通话、多国免费流量](https://www.ithome.com/0/743/714.htm) |
