@@ -1,4 +1,4 @@
-#### 2024-01-09_16-00  IT之家日榜
+#### 2024-01-09_17-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [（更新：达达已回应）京东集团：旗下子公司达达宣布在内部审计过程中发现存疑行为](https://www.ithome.com/0/744/032.htm) |
 | 6 | [刘作虎：OPPO 不做芯片，但保留哲库原有的架构团队](https://www.ithome.com/0/744/004.htm) |
 | 7 | [消息称小米今年有望推出屏下前摄新机，高屏占比形态](https://www.ithome.com/0/744/064.htm) |
-| 8 | [理想汽车、长城、极氪、小米宣布与英伟达 NVIDIA DRIVE 车载自动驾驶平台达成合作](https://www.ithome.com/0/744/071.htm) |
-| 9 | [小米：SU7 50 万元以内没有对手，没有和第三方车企合作推出“智选”车的计划](https://www.ithome.com/0/744/154.htm) |
-| 10 | [OPPO Find X7 Ultra 手机全球首发双潜望四主摄，新一代 1 英寸超大底广角](https://www.ithome.com/0/743/969.htm) |
-| 11 | [比亚迪回应网传“秦 PLUS DM-i 车型 6.98 万元起售”：假消息](https://www.ithome.com/0/744/029.htm) |
-| 12 | [Wi-Fi 7 时代来临：Wi-Fi 联盟已开始对 Wi-Fi 7 设备进行认证](https://www.ithome.com/0/744/045.htm) |
+| 8 | [小米：SU7 50 万元以内没有对手，没有和第三方车企合作推出“智选”车的计划](https://www.ithome.com/0/744/154.htm) |
+| 9 | [理想汽车、长城、极氪、小米宣布与英伟达 NVIDIA DRIVE 车载自动驾驶平台达成合作](https://www.ithome.com/0/744/071.htm) |
+| 10 | [比亚迪回应网传“秦 PLUS DM-i 车型 6.98 万元起售”：假消息](https://www.ithome.com/0/744/029.htm) |
+| 11 | [Wi-Fi 7 时代来临：Wi-Fi 联盟已开始对 Wi-Fi 7 设备进行认证](https://www.ithome.com/0/744/045.htm) |
+| 12 | [全新 14 代 / 1 代处理器面世：英特尔发布面向发烧友和主流用户的移动、台式机和边缘处理器](https://www.ithome.com/0/744/085.htm) |
