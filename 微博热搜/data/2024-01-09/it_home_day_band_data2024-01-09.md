@@ -1,16 +1,16 @@
-#### 2024-01-09_15-00  IT之家日榜
+#### 2024-01-09_16-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [5999 元起，OPPO Find X7 Ultra 手机发布：首发双潜望四主摄，可选卫星通信版](https://www.ithome.com/0/743/979.htm) |
-| 2 | [3999 元起，OPPO Find X7 超级标准版手机发布：天玑 9300、三主摄、端侧 AI](https://www.ithome.com/0/743/957.htm) |
-| 3 | [国行定价出炉！英伟达 RTX 40 SUPER 系列显卡发布：加量又减价，4899 元起](https://www.ithome.com/0/744/067.htm) |
-| 4 | [华为 P70 手机渲染图曝光：搭载可变光圈新主摄 + 潜望长焦](https://www.ithome.com/0/744/008.htm) |
-| 5 | [京东京造推出 2400W 移动户外电源：支持 11 台设备同时充电、3000 次循环寿命，到手 4599 元](https://www.ithome.com/0/743/990.htm) |
-| 6 | [（更新：达达已回应）京东集团：旗下子公司达达宣布在内部审计过程中发现存疑行为](https://www.ithome.com/0/744/032.htm) |
-| 7 | [刘作虎：OPPO 不做芯片，但保留哲库原有的架构团队](https://www.ithome.com/0/744/004.htm) |
-| 8 | [消息称小米今年有望推出屏下前摄新机，高屏占比形态](https://www.ithome.com/0/744/064.htm) |
-| 9 | [理想汽车、长城、极氪、小米宣布与英伟达 NVIDIA DRIVE 车载自动驾驶平台达成合作](https://www.ithome.com/0/744/071.htm) |
+| 2 | [国行定价出炉！英伟达 RTX 40 SUPER 系列显卡发布：加量又减价，4899 元起](https://www.ithome.com/0/744/067.htm) |
+| 3 | [华为 P70 手机渲染图曝光：搭载可变光圈新主摄 + 潜望长焦](https://www.ithome.com/0/744/008.htm) |
+| 4 | [京东京造推出 2400W 移动户外电源：支持 11 台设备同时充电、3000 次循环寿命，到手 4599 元](https://www.ithome.com/0/743/990.htm) |
+| 5 | [（更新：达达已回应）京东集团：旗下子公司达达宣布在内部审计过程中发现存疑行为](https://www.ithome.com/0/744/032.htm) |
+| 6 | [刘作虎：OPPO 不做芯片，但保留哲库原有的架构团队](https://www.ithome.com/0/744/004.htm) |
+| 7 | [消息称小米今年有望推出屏下前摄新机，高屏占比形态](https://www.ithome.com/0/744/064.htm) |
+| 8 | [理想汽车、长城、极氪、小米宣布与英伟达 NVIDIA DRIVE 车载自动驾驶平台达成合作](https://www.ithome.com/0/744/071.htm) |
+| 9 | [小米：SU7 50 万元以内没有对手，没有和第三方车企合作推出“智选”车的计划](https://www.ithome.com/0/744/154.htm) |
 | 10 | [OPPO Find X7 Ultra 手机全球首发双潜望四主摄，新一代 1 英寸超大底广角](https://www.ithome.com/0/743/969.htm) |
 | 11 | [比亚迪回应网传“秦 PLUS DM-i 车型 6.98 万元起售”：假消息](https://www.ithome.com/0/744/029.htm) |
 | 12 | [Wi-Fi 7 时代来临：Wi-Fi 联盟已开始对 Wi-Fi 7 设备进行认证](https://www.ithome.com/0/744/045.htm) |
