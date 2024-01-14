@@ -1,16 +1,16 @@
-#### 2024-01-14_20-00  IT之家日榜
+#### 2024-01-14_21-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [荣耀赵明回应是否与华为鸿蒙合作：对 MagicOS 来讲已经不是那么重要](https://www.ithome.com/0/745/097.htm) |
 | 2 | [消息称华为鸿蒙智行加入新成员，“享界”和“傲界”车型即将登场](https://www.ithome.com/0/745/103.htm) |
-| 3 | [CES 2024 年度创新奖重磅揭晓：35 个产品拿下“金标”大奖，华硕、三星等入选](https://www.ithome.com/0/745/094.htm) |
-| 4 | [TP-LINK 推出 BE5100 Wi-Fi 7 千兆双频路由器：2.5G 网口，首发 279 元](https://www.ithome.com/0/745/105.htm) |
-| 5 | [全新一代雷克萨斯 GX 上市：全新普拉多“同款”车身，77.8 万元起售](https://www.ithome.com/0/745/090.htm) |
-| 6 | [部分亚马逊卖家用 ChatGPT 上架商品，导致商品名变成“抱歉，违反 OpenAI 政策”](https://www.ithome.com/0/745/102.htm) |
+| 3 | [TP-LINK 推出 BE5100 Wi-Fi 7 千兆双频路由器：2.5G 网口，首发 279 元](https://www.ithome.com/0/745/105.htm) |
+| 4 | [消息称小米 14 Ultra 手机进入最后测试阶段，骁龙 8 Gen 2 平板一同发布](https://www.ithome.com/0/745/183.htm) |
+| 5 | [部分亚马逊卖家用 ChatGPT 上架商品，导致商品名变成“抱歉，违反 OpenAI 政策”](https://www.ithome.com/0/745/102.htm) |
+| 6 | [马斯克：特斯拉 Cybertruck 电动皮卡车很难在中国合法上路](https://www.ithome.com/0/745/154.htm) |
 | 7 | [微软：不会强制电脑厂商添加 Copilot 键，也不会将其用于设备硬件认证](https://www.ithome.com/0/745/095.htm) |
-| 8 | [马斯克：特斯拉 Cybertruck 电动皮卡车很难在中国合法上路](https://www.ithome.com/0/745/154.htm) |
-| 9 | [OpenAI 悄然更新使用政策，删除“明确禁止将技术用于军事、战争”措辞](https://www.ithome.com/0/745/092.htm) |
+| 8 | [秘鲁“外星人遗体”鉴定结果出炉：人工合成的人偶](https://www.ithome.com/0/745/175.htm) |
+| 9 | [X100 Pro 机型推送全高频 PWM，vivo 产品经理：功耗影响平均 2-3%](https://www.ithome.com/0/745/147.htm) |
 | 10 | [哪吒 S 增程车型满油满电实测：实际续航 980km，负重 270kg、百公里油耗 5.4L](https://www.ithome.com/0/745/121.htm) |
-| 11 | [X100 Pro 机型推送全高频 PWM，vivo 产品经理：功耗影响平均 2-3%](https://www.ithome.com/0/745/147.htm) |
-| 12 | [消息称特斯拉已筹备 Cybertruck 电动皮卡在中国亮相](https://www.ithome.com/0/745/091.htm) |
+| 11 | [比亚迪仰望 U7 实车曝光，号称“百万级新能源旗舰轿车”](https://www.ithome.com/0/745/173.htm) |
+| 12 | [网友称自家智能洗衣机日吞 3.7GB 流量，真相竟是路由器误报](https://www.ithome.com/0/745/166.htm) |
