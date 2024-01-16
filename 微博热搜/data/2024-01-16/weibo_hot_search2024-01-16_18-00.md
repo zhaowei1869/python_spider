@@ -1,0 +1,136 @@
+#### 2024-01-16_18-00  微博热搜榜
+
+| 排名 | 微博内容 | 类别 |
+| --- | --- | --- |
+| 1 | [田曦薇晒猫](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%99%92%E7%8C%AB%23) | 艺人 |
+| 2 | [小女儿因妈妈一句我的孩子都优秀泪崩](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%B3%E5%84%BF%E5%9B%A0%E5%A6%88%E5%A6%88%E4%B8%80%E5%8F%A5%E6%88%91%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E4%BC%98%E7%A7%80%E6%B3%AA%E5%B4%A9%23) | 社会新闻 |
+| 3 | [天舟七号将为航天员运来龙年盲盒](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%88%9F%E4%B8%83%E5%8F%B7%E5%B0%86%E4%B8%BA%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%90%E6%9D%A5%E9%BE%99%E5%B9%B4%E7%9B%B2%E7%9B%92%23) | 社会新闻 |
+| 4 | [胡海峰任民政部副部长](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%B5%B7%E5%B3%B0%E4%BB%BB%E6%B0%91%E6%94%BF%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%23) | 国内时政 |
+| 5 | [爷爷去世后奶奶独自从早待到晚](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A5%B6%E5%A5%B6%E7%8B%AC%E8%87%AA%E4%BB%8E%E6%97%A9%E5%BE%85%E5%88%B0%E6%99%9A%23) | 社会新闻 |
+| 6 | [老人突然离世三十九万元存款难取出](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E7%84%B6%E7%A6%BB%E4%B8%96%E4%B8%89%E5%8D%81%E4%B9%9D%E4%B8%87%E5%85%83%E5%AD%98%E6%AC%BE%E9%9A%BE%E5%8F%96%E5%87%BA%23) | 社会新闻 |
+| 7 | [边防战士穿电热靴巡逻暖烘烘](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E9%98%B2%E6%88%98%E5%A3%AB%E7%A9%BF%E7%94%B5%E7%83%AD%E9%9D%B4%E5%B7%A1%E9%80%BB%E6%9A%96%E7%83%98%E7%83%98%23) | 军事社会新闻 |
+| 8 | [周一围从朱丹口误后停更微博](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E5%9B%B4%E4%BB%8E%E6%9C%B1%E4%B8%B9%E5%8F%A3%E8%AF%AF%E5%90%8E%E5%81%9C%E6%9B%B4%E5%BE%AE%E5%8D%9A%23) | 综艺 |
+| 9 | [邓紫棋已被前东家蜂鸟音乐注册成商标](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B7%B2%E8%A2%AB%E5%89%8D%E4%B8%9C%E5%AE%B6%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E6%B3%A8%E5%86%8C%E6%88%90%E5%95%86%E6%A0%87%23) | 艺人 |
+| 10 | [中方建议菲律宾总统多读读书](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BB%BA%E8%AE%AE%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%A4%9A%E8%AF%BB%E8%AF%BB%E4%B9%A6%23) | 国内时政 |
+| 11 | [优酷换logo了](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E6%8D%A2logo%E4%BA%86%23) | 互联网 |
+| 12 | [卖壁纸轻松月入10万](https://s.weibo.com/weibo?q=%23%E5%8D%96%E5%A3%81%E7%BA%B8%E8%BD%BB%E6%9D%BE%E6%9C%88%E5%85%A510%E4%B8%87%23) | 社会新闻 |
+| 13 | [退烧后的淄博](https://s.weibo.com/weibo?q=%23%E9%80%80%E7%83%A7%E5%90%8E%E7%9A%84%E6%B7%84%E5%8D%9A%23) | 社会新闻 |
+| 14 | [辛芷蕾 今年我就是个笑话](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E4%BB%8A%E5%B9%B4%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AA%E7%AC%91%E8%AF%9D%23) | 作品衍生 |
+| 15 | [他们在支付宝是真的想教会我搞钱](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E6%98%AF%E7%9C%9F%E7%9A%84%E6%83%B3%E6%95%99%E4%BC%9A%E6%88%91%E6%90%9E%E9%92%B1%23) | 幽默 |
+| 16 | [gidle 抄袭争议](https://s.weibo.com/weibo?q=%23gidle%20%E6%8A%84%E8%A2%AD%E4%BA%89%E8%AE%AE%23) | 艺人 |
+| 17 | [王一博不在乐华股东公示行列](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8D%E5%9C%A8%E4%B9%90%E5%8D%8E%E8%82%A1%E4%B8%9C%E5%85%AC%E7%A4%BA%E8%A1%8C%E5%88%97%23) | 艺人财经 |
+| 18 | [西安的雪下的是馒头片吧](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%9A%84%E9%9B%AA%E4%B8%8B%E7%9A%84%E6%98%AF%E9%A6%92%E5%A4%B4%E7%89%87%E5%90%A7%23) | 社会新闻 |
+| 19 | [辛芷蕾 不让我进场我嗷嗷挤](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E4%B8%8D%E8%AE%A9%E6%88%91%E8%BF%9B%E5%9C%BA%E6%88%91%E5%97%B7%E5%97%B7%E6%8C%A4%23) | 作品衍生 |
+| 20 | [韩国名宿扬言封杀中国裁判](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%90%8D%E5%AE%BF%E6%89%AC%E8%A8%80%E5%B0%81%E6%9D%80%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%23) | 体育 |
+| 21 | [儿子谎称睾丸破裂骗摆摊父亲30万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%9D%BE%E4%B8%B8%E7%A0%B4%E8%A3%82%E9%AA%97%E6%91%86%E6%91%8A%E7%88%B6%E4%BA%B230%E4%B8%87%23) | 社会新闻 |
+| 22 | [每个月减重4到8斤相对合理](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%87%8F%E9%87%8D4%E5%88%B08%E6%96%A4%E7%9B%B8%E5%AF%B9%E5%90%88%E7%90%86%23) | 运动健身 |
+| 23 | [吴宣仪 你啊你啊](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E4%BD%A0%E5%95%8A%E4%BD%A0%E5%95%8A%23) | 演出 |
+| 24 | [难哄阵容](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E9%98%B5%E5%AE%B9%23) | 剧集 |
+| 25 | [十个勤天想邀请来总马化腾来种地](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%83%B3%E9%82%80%E8%AF%B7%E6%9D%A5%E6%80%BB%E9%A9%AC%E5%8C%96%E8%85%BE%E6%9D%A5%E7%A7%8D%E5%9C%B0%23) | 作品衍生 |
+| 26 | [ale改名clearlove14](https://s.weibo.com/weibo?q=%23ale%E6%94%B9%E5%90%8Dclearlove14%23) | 电竞 |
+| 27 | [穆里尼奥下课](https://s.weibo.com/weibo?q=%23%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5%E4%B8%8B%E8%AF%BE%23) | 体育 |
+| 28 | [武汉eStarPro挂牌公告](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89eStarPro%E6%8C%82%E7%89%8C%E5%85%AC%E5%91%8A%23) | 电竞 |
+| 29 | [乐华股价暴跌近80%](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9180%25%23) | 艺人 |
+| 30 | [我们为什么需要卫星通信](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1%23) | 社会新闻 |
+| 31 | [年会不能停票房破8亿](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C%E7%A5%A8%E6%88%BF%E7%A0%B48%E4%BA%BF%23) | 电影 |
+| 32 | [KSG 久酷](https://s.weibo.com/weibo?q=%23KSG%20%E4%B9%85%E9%85%B7%23) | 电竞 |
+| 33 | [发消息讨好症](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%B6%88%E6%81%AF%E8%AE%A8%E5%A5%BD%E7%97%87%23) | 情感 |
+| 34 | [Minji为没吃过刀削面道歉](https://s.weibo.com/weibo?q=%23Minji%E4%B8%BA%E6%B2%A1%E5%90%83%E8%BF%87%E5%88%80%E5%89%8A%E9%9D%A2%E9%81%93%E6%AD%89%23) | 艺人 |
+| 35 | [成都AG挂牌公告](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BDAG%E6%8C%82%E7%89%8C%E5%85%AC%E5%91%8A%23) | 电竞 |
+| 36 | [冬天不要催作家 很烦](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E4%B8%8D%E8%A6%81%E5%82%AC%E4%BD%9C%E5%AE%B6%20%E5%BE%88%E7%83%A6%23) | 幽默读书作家 |
+| 37 | [广州TTG挂牌公告](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9ETTG%E6%8C%82%E7%89%8C%E5%85%AC%E5%91%8A%23) | 电竞 |
+| 38 | [孙丞潇写给金莎的信](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9E%E6%BD%87%E5%86%99%E7%BB%99%E9%87%91%E8%8E%8E%E7%9A%84%E4%BF%A1%23) | 综艺 |
+| 39 | [唐嫣虞书欣互关了](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%92%E5%85%B3%E4%BA%86%23) | 作品衍生 |
+| 40 | [广东人的春节真的吃不完](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E6%98%A5%E8%8A%82%E7%9C%9F%E7%9A%84%E5%90%83%E4%B8%8D%E5%AE%8C%23) | 社会新闻 |
+| 41 | [陈都灵唐妆少女](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%94%90%E5%A6%86%E5%B0%91%E5%A5%B3%23) | 剧集 |
+| 42 | [华为回应智界S7交付困难](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E6%99%BA%E7%95%8CS7%E4%BA%A4%E4%BB%98%E5%9B%B0%E9%9A%BE%23) | 汽车 |
+| 43 | [网红用饮料做尿检后当医生面喝下](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%90%8E%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B%23) | 社会新闻 |
+| 44 | [重庆狼队挂牌公告](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%E6%8C%82%E7%89%8C%E5%85%AC%E5%91%8A%23) | 电竞 |
+| 45 | [男子梦到家中有黄金挖40米深洞后摔死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23) | 社会新闻 |
+| 46 | [张若昀客串大唐狄公案](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AE%A2%E4%B8%B2%E5%A4%A7%E5%94%90%E7%8B%84%E5%85%AC%E6%A1%88%23) | 剧集 |
+| 47 | [冻梨为什么这么黑](https://s.weibo.com/weibo?q=%23%E5%86%BB%E6%A2%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%BB%91%23) | 美食 |
+| 48 | [男子做出会下雨的伞救活一个厂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9A%E5%87%BA%E4%BC%9A%E4%B8%8B%E9%9B%A8%E7%9A%84%E4%BC%9E%E6%95%91%E6%B4%BB%E4%B8%80%E4%B8%AA%E5%8E%82%23) | 社会新闻 |
+| 49 | [黄景瑜想演病娇](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%83%B3%E6%BC%94%E7%97%85%E5%A8%87%23) | 艺人 |
+| 50 | [釜山世乒赛团体赛 分组](https://s.weibo.com/weibo?q=%23%E9%87%9C%E5%B1%B1%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%A2%E4%BD%93%E8%B5%9B%20%E5%88%86%E7%BB%84%23) | 体育 |
+#### 2024-01-16_18-00  微博话题榜
+
+| 排名 | 微博话题 | 类别 |
+| --- | --- | --- |
+| 1 | [婚姻与爱情的本质是什么](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A7%BB%E4%B8%8E%E7%88%B1%E6%83%85%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%80%E4%B9%88%23) | 情感|5 |
+| 2 | [你会和好朋友去谈恋爱吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%92%8C%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%8E%BB%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%97%23) | 情感|5 |
+| 3 | [你最欣赏繁花的哪个方面](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%80%E6%AC%A3%E8%B5%8F%E7%B9%81%E8%8A%B1%E7%9A%84%E5%93%AA%E4%B8%AA%E6%96%B9%E9%9D%A2%23) | 电视剧|101-国产剧|101021 |
+| 4 | [谈恋爱越久越不容易结婚吗](https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E8%B6%8A%E4%B9%85%E8%B6%8A%E4%B8%8D%E5%AE%B9%E6%98%93%E7%BB%93%E5%A9%9A%E5%90%97%23) | 情感|5 |
+| 5 | [你有工作电话焦虑症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%94%B5%E8%AF%9D%E7%84%A6%E8%99%91%E7%97%87%E5%90%97%23) | 情感|5 |
+| 6 | [情侣之间吵架多了会不会影响感情](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%B9%8B%E9%97%B4%E5%90%B5%E6%9E%B6%E5%A4%9A%E4%BA%86%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%84%9F%E6%83%85%23) | 情感|5 |
+| 7 | [人为什么会抑郁](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%8A%91%E9%83%81%23) | 互联网|138 |
+| 8 | [工作哪有自己重要](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%93%AA%E6%9C%89%E8%87%AA%E5%B7%B1%E9%87%8D%E8%A6%81%23) | 情感|5 |
+| 9 | [分手后如何建立二次吸引](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E5%90%8E%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%BA%8C%E6%AC%A1%E5%90%B8%E5%BC%95%23) | 情感|5 |
+| 10 | [第一次见男朋友家长送什么显得有诚意](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%AE%B6%E9%95%BF%E9%80%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%BE%97%E6%9C%89%E8%AF%9A%E6%84%8F%23) | 情感|5 |
+| 11 | [情侣之间情绪稳定真的很重要](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%B9%8B%E9%97%B4%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%23) | 搞笑|140 |
+| 12 | [喜欢一个人智商会变低吗](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%99%BA%E5%95%86%E4%BC%9A%E5%8F%98%E4%BD%8E%E5%90%97%23) | 情感|5 |
+| 13 | [你会喜欢主动的女生吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%96%9C%E6%AC%A2%E4%B8%BB%E5%8A%A8%E7%9A%84%E5%A5%B3%E7%94%9F%E5%90%97%23) | 情感|5 |
+| 14 | [你平时怎样清洗羽绒服](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%B9%B3%E6%97%B6%E6%80%8E%E6%A0%B7%E6%B8%85%E6%B4%97%E7%BE%BD%E7%BB%92%E6%9C%8D%23) | 社会|1 |
+| 15 | [你有被解雇的经历吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E8%A2%AB%E8%A7%A3%E9%9B%87%E7%9A%84%E7%BB%8F%E5%8E%86%E5%90%97%23) | 社会|1 |
+| 16 | [你还看小杨哥视频吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E7%9C%8B%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A7%86%E9%A2%91%E5%90%97%23) | 社会|1 |
+| 17 | [矮个子女生的痛谁懂](https://s.weibo.com/weibo?q=%23%E7%9F%AE%E4%B8%AA%E5%AD%90%E5%A5%B3%E7%94%9F%E7%9A%84%E7%97%9B%E8%B0%81%E6%87%82%23) | 情感|5 |
+| 18 | [你愿意和闺蜜过一辈子吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%BF%E6%84%8F%E5%92%8C%E9%97%BA%E8%9C%9C%E8%BF%87%E4%B8%80%E8%BE%88%E5%AD%90%E5%90%97%23) | 情感|5 |
+| 19 | [结婚你会选择远嫁吗](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E8%BF%9C%E5%AB%81%E5%90%97%23) | 情感|5 |
+| 20 | [不谈恋爱可以做很多有趣的事](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E5%8F%AF%E4%BB%A5%E5%81%9A%E5%BE%88%E5%A4%9A%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%8B%23) | 情感|5 |
+| 21 | [免疫系统和睡眠的关系是怎样的](https://s.weibo.com/weibo?q=%23%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%9D%A1%E7%9C%A0%E7%9A%84%E5%85%B3%E7%B3%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23) | 科普|3 |
+| 22 | [普通男人如何变帅](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E7%94%B7%E4%BA%BA%E5%A6%82%E4%BD%95%E5%8F%98%E5%B8%85%23) | 健康|113-医疗|113023 |
+| 23 | [如何推动地方志事业转型升级](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%8E%A8%E5%8A%A8%E5%9C%B0%E6%96%B9%E5%BF%97%E4%BA%8B%E4%B8%9A%E8%BD%AC%E5%9E%8B%E5%8D%87%E7%BA%A7%23) | 社会|1 |
+| 24 | [情侣之间没有信任还要继续吗](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%B9%8B%E9%97%B4%E6%B2%A1%E6%9C%89%E4%BF%A1%E4%BB%BB%E8%BF%98%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%90%97%23) | 情感|5 |
+#### 2024-01-16_18-00  微博要闻榜
+
+| 排名 | 微博要闻 | 类别 |
+| --- | --- | --- |
+| 1 | [中方建议菲律宾总统多读读书](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BB%BA%E8%AE%AE%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%A4%9A%E8%AF%BB%E8%AF%BB%E4%B9%A6%23) | 社会|1 |
+| 2 | [国新办介绍2024春运安排](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%BB%8B%E7%BB%8D2024%E6%98%A5%E8%BF%90%E5%AE%89%E6%8E%92%23) | 社会|1 |
+| 3 | [消防员静止30秒战斗服呼救器自动蜂鸣](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E9%9D%99%E6%AD%A230%E7%A7%92%E6%88%98%E6%96%97%E6%9C%8D%E5%91%BC%E6%95%91%E5%99%A8%E8%87%AA%E5%8A%A8%E8%9C%82%E9%B8%A3%23) | 社会|1 |
+| 4 | [邓紫棋已被前东家蜂鸟音乐注册成商标](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B7%B2%E8%A2%AB%E5%89%8D%E4%B8%9C%E5%AE%B6%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E6%B3%A8%E5%86%8C%E6%88%90%E5%95%86%E6%A0%87%23) | 明星|2 |
+| 5 | [退烧后的淄博](https://s.weibo.com/weibo?q=%23%E9%80%80%E7%83%A7%E5%90%8E%E7%9A%84%E6%B7%84%E5%8D%9A%23) | 社会|1 |
+| 6 | [俞敏洪建议一周放假两天半到三天](https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%91%A8%E6%94%BE%E5%81%87%E4%B8%A4%E5%A4%A9%E5%8D%8A%E5%88%B0%E4%B8%89%E5%A4%A9%23) | 财经|7 |
+| 7 | [男子做出会下雨的伞救活一个厂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9A%E5%87%BA%E4%BC%9A%E4%B8%8B%E9%9B%A8%E7%9A%84%E4%BC%9E%E6%95%91%E6%B4%BB%E4%B8%80%E4%B8%AA%E5%8E%82%23) | 社会|1 |
+| 8 | [卖壁纸轻松月入10万](https://s.weibo.com/weibo?q=%23%E5%8D%96%E5%A3%81%E7%BA%B8%E8%BD%BB%E6%9D%BE%E6%9C%88%E5%85%A510%E4%B8%87%23) | 社会|1 |
+| 9 | [董宇辉研究公司春节错峰放假](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A0%94%E7%A9%B6%E5%85%AC%E5%8F%B8%E6%98%A5%E8%8A%82%E9%94%99%E5%B3%B0%E6%94%BE%E5%81%87%23) | 社会|1 |
+| 10 | [河南省文旅厅发布严正声明](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E6%96%87%E6%97%85%E5%8E%85%E5%8F%91%E5%B8%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E%23) | 政务|147 |
+| 11 | [一载中国游客大巴在泰国翻车](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%BD%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%A4%A7%E5%B7%B4%E5%9C%A8%E6%B3%B0%E5%9B%BD%E7%BF%BB%E8%BD%A6%23) | 社会|1 |
+| 12 | [钢琴销量断崖式下滑](https://s.weibo.com/weibo?q=%23%E9%92%A2%E7%90%B4%E9%94%80%E9%87%8F%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E6%BB%91%23) | 社会|1 |
+| 13 | [儿子谎称睾丸破裂骗摆摊父亲30万](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%B0%8E%E7%A7%B0%E7%9D%BE%E4%B8%B8%E7%A0%B4%E8%A3%82%E9%AA%97%E6%91%86%E6%91%8A%E7%88%B6%E4%BA%B230%E4%B8%87%23) | 社会|1 |
+| 14 | [苹果夺2023年全球智能手机市场第一](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%BA2023%E5%B9%B4%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E7%AC%AC%E4%B8%80%23) | 财经|7 |
+| 15 | [中央大街的铁柱子都被包起来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97%E7%9A%84%E9%93%81%E6%9F%B1%E5%AD%90%E9%83%BD%E8%A2%AB%E5%8C%85%E8%B5%B7%E6%9D%A5%E4%BA%86%23) | 社会|1 |
+| 16 | [广东人的春节真的吃不完](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E6%98%A5%E8%8A%82%E7%9C%9F%E7%9A%84%E5%90%83%E4%B8%8D%E5%AE%8C%23) | 社会|1 |
+| 17 | [APP未经同意跳转广告涉嫌违法](https://s.weibo.com/weibo?q=%23APP%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23) | 社会|1 |
+| 18 | [男子梦到家中有黄金挖40米深洞后摔死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%A2%A6%E5%88%B0%E5%AE%B6%E4%B8%AD%E6%9C%89%E9%BB%84%E9%87%91%E6%8C%9640%E7%B1%B3%E6%B7%B1%E6%B4%9E%E5%90%8E%E6%91%94%E6%AD%BB%23) | 社会|1 |
+| 19 | [广东小伙邀请全国人民来吃年例](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%B0%8F%E4%BC%99%E9%82%80%E8%AF%B7%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%9D%A5%E5%90%83%E5%B9%B4%E4%BE%8B%23) | 社会|1 |
+| 20 | [苏州园林猫咪在蜡梅树下惬意漫步](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%9B%AD%E6%9E%97%E7%8C%AB%E5%92%AA%E5%9C%A8%E8%9C%A1%E6%A2%85%E6%A0%91%E4%B8%8B%E6%83%AC%E6%84%8F%E6%BC%AB%E6%AD%A5%23) | 社会|1 |
+| 21 | [网红用饮料做尿检后当医生面喝下](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%94%A8%E9%A5%AE%E6%96%99%E5%81%9A%E5%B0%BF%E6%A3%80%E5%90%8E%E5%BD%93%E5%8C%BB%E7%94%9F%E9%9D%A2%E5%96%9D%E4%B8%8B%23) | 社会|1 |
+| 22 | [春节9天小客车免费通行高速](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%829%E5%A4%A9%E5%B0%8F%E5%AE%A2%E8%BD%A6%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%E9%AB%98%E9%80%9F%23) | 社会|1 |
+| 23 | [外交部建议菲律宾总统多读读书](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%BB%BA%E8%AE%AE%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%A4%9A%E8%AF%BB%E8%AF%BB%E4%B9%A6%23) | 社会|1 |
+| 24 | [13年后儿子继承牺牲父亲警号](https://s.weibo.com/weibo?q=%2313%E5%B9%B4%E5%90%8E%E5%84%BF%E5%AD%90%E7%BB%A7%E6%89%BF%E7%89%BA%E7%89%B2%E7%88%B6%E4%BA%B2%E8%AD%A6%E5%8F%B7%23) | 社会|1 |
+| 25 | [爷爷奶奶们上声乐课认真又可爱](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E4%BB%AC%E4%B8%8A%E5%A3%B0%E4%B9%90%E8%AF%BE%E8%AE%A4%E7%9C%9F%E5%8F%88%E5%8F%AF%E7%88%B1%23) | 社会|1 |
+| 26 | [尔滨开始为下个冬天存冰了](https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E5%BC%80%E5%A7%8B%E4%B8%BA%E4%B8%8B%E4%B8%AA%E5%86%AC%E5%A4%A9%E5%AD%98%E5%86%B0%E4%BA%86%23) | 社会|1 |
+| 27 | [阿勒泰多处雪崩上千人滞留](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%8B%92%E6%B3%B0%E5%A4%9A%E5%A4%84%E9%9B%AA%E5%B4%A9%E4%B8%8A%E5%8D%83%E4%BA%BA%E6%BB%9E%E7%95%99%23) | 社会|1 |
+| 28 | [女子酒店产子后遗弃被判故意杀人罪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E4%BA%A7%E5%AD%90%E5%90%8E%E9%81%97%E5%BC%83%E8%A2%AB%E5%88%A4%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%23) | 社会|1 |
+| 29 | [肉夹馍店因生意太好被举报关店](https://s.weibo.com/weibo?q=%23%E8%82%89%E5%A4%B9%E9%A6%8D%E5%BA%97%E5%9B%A0%E7%94%9F%E6%84%8F%E5%A4%AA%E5%A5%BD%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%85%B3%E5%BA%97%23) | 社会|1 |
+| 30 | [教师妈妈辅导女儿作业脑出血](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E5%A5%B3%E5%84%BF%E4%BD%9C%E4%B8%9A%E8%84%91%E5%87%BA%E8%A1%80%23) | 社会|1 |
+| 31 | [专家喊话A股被严重低估](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%96%8A%E8%AF%9DA%E8%82%A1%E8%A2%AB%E4%B8%A5%E9%87%8D%E4%BD%8E%E4%BC%B0%23) | 财经|7 |
+| 32 | [杜华卸任多家公司法定代表人](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%8D%B8%E4%BB%BB%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%B3%95%E5%AE%9A%E4%BB%A3%E8%A1%A8%E4%BA%BA%23) | 明星|2-内地|2001 |
+| 33 | [万吨大驱第一女操舵手曾和晕船死磕](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E7%AC%AC%E4%B8%80%E5%A5%B3%E6%93%8D%E8%88%B5%E6%89%8B%E6%9B%BE%E5%92%8C%E6%99%95%E8%88%B9%E6%AD%BB%E7%A3%95%23) | 社会|1 |
+| 34 | [2024春运全国跨区域人员流动量预计达90亿人次](https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%BF%90%E5%85%A8%E5%9B%BD%E8%B7%A8%E5%8C%BA%E5%9F%9F%E4%BA%BA%E5%91%98%E6%B5%81%E5%8A%A8%E9%87%8F%E9%A2%84%E8%AE%A1%E8%BE%BE90%E4%BA%BF%E4%BA%BA%E6%AC%A1%23) | 社会|1 |
+| 35 | [乐华股价暴跌或因基石投资者将解禁](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%88%96%E5%9B%A0%E5%9F%BA%E7%9F%B3%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E8%A7%A3%E7%A6%81%23) | 财经|7 |
+| 36 | [网红局长拿出看家本领拍视频](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B1%80%E9%95%BF%E6%8B%BF%E5%87%BA%E7%9C%8B%E5%AE%B6%E6%9C%AC%E9%A2%86%E6%8B%8D%E8%A7%86%E9%A2%91%23) | 社会|1 |
+| 37 | [河南云台山男女妲己引热议](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%BA%91%E5%8F%B0%E5%B1%B1%E7%94%B7%E5%A5%B3%E5%A6%B2%E5%B7%B1%E5%BC%95%E7%83%AD%E8%AE%AE%23) | 社会|1 |
+| 38 | [喝牛奶闹肚的人有福了](https://s.weibo.com/weibo?q=%23%E5%96%9D%E7%89%9B%E5%A5%B6%E9%97%B9%E8%82%9A%E7%9A%84%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86%23) | 健康|113 |
+| 39 | [西安的雪下的是馒头片吧](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%9A%84%E9%9B%AA%E4%B8%8B%E7%9A%84%E6%98%AF%E9%A6%92%E5%A4%B4%E7%89%87%E5%90%A7%23) | 生活记录|120 |
+| 40 | [广东广西文旅头像](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E6%96%87%E6%97%85%E5%A4%B4%E5%83%8F%23) | 社会|1 |
+| 41 | [各地文旅局持续整活儿](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E5%B1%80%E6%8C%81%E7%BB%AD%E6%95%B4%E6%B4%BB%E5%84%BF%23) | 社会|1 |
+| 42 | [华为承诺不从事整车业务](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%89%BF%E8%AF%BA%E4%B8%8D%E4%BB%8E%E4%BA%8B%E6%95%B4%E8%BD%A6%E4%B8%9A%E5%8A%A1%23) | 社会|1 |
+| 43 | [新时代新征程金融工作怎么看怎么干](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%B0%E5%BE%81%E7%A8%8B%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E7%9C%8B%E6%80%8E%E4%B9%88%E5%B9%B2%23) | 时事|500 |
+| 44 | [每个月减重4到8斤相对合理](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%87%8F%E9%87%8D4%E5%88%B08%E6%96%A4%E7%9B%B8%E5%AF%B9%E5%90%88%E7%90%86%23) | 社会|1 |
+| 45 | [战机跨昼夜飞训霸气大片](https://s.weibo.com/weibo?q=%23%E6%88%98%E6%9C%BA%E8%B7%A8%E6%98%BC%E5%A4%9C%E9%A3%9E%E8%AE%AD%E9%9C%B8%E6%B0%94%E5%A4%A7%E7%89%87%23) | 社会|1 |
+| 46 | [王俊凯推介母城渝中](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8E%A8%E4%BB%8B%E6%AF%8D%E5%9F%8E%E6%B8%9D%E4%B8%AD%23) | 社会|1 |
+| 47 | [丽江通报游客被强制消费骑马](https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E9%80%9A%E6%8A%A5%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%B6%88%E8%B4%B9%E9%AA%91%E9%A9%AC%23) | 社会|1 |
+| 48 | [肖战起诉科技公司侵权](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B7%E8%AF%89%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%BE%B5%E6%9D%83%23) | 社会|1 |
+| 49 | [长征七号首次手动点火发射](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%81%E4%B8%83%E5%8F%B7%E9%A6%96%E6%AC%A1%E6%89%8B%E5%8A%A8%E7%82%B9%E7%81%AB%E5%8F%91%E5%B0%84%23) | 社会|1 |
+| 50 | [文昌航天发射场18战18捷](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%8C%E8%88%AA%E5%A4%A9%E5%8F%91%E5%B0%84%E5%9C%BA18%E6%88%9818%E6%8D%B7%23) | 社会|1 |
