@@ -1,16 +1,16 @@
-#### 2024-01-19_16-00  IT之家日榜
+#### 2024-01-19_17-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [华为鸿蒙星河版系统界面亮相：HarmonyOS NEXT 全新控制中心、多彩配色](https://www.ithome.com/0/746/012.htm) |
 | 2 | [华为 HarmonyOS NEXT 鸿蒙星河版第四季度商用，第二季度启动开发者 Beta](https://www.ithome.com/0/745/993.htm) |
-| 3 | [华为 HarmonyOS NEXT 开发者预览版官方页面上线，关键开发特性公布](https://www.ithome.com/0/746/015.htm) |
-| 4 | [支付宝时隔 4 年 Logo 再次换新：砍掉外框和文字，引入立体自然光](https://www.ithome.com/0/746/112.htm) |
-| 5 | [华为发布 HarmonyOS NEXT 鸿蒙星河版，开发者预览版开放申请](https://www.ithome.com/0/745/981.htm) |
-| 6 | [花 2888 元买火箭发射内场票被带到周边房顶，海南文昌通报立案](https://www.ithome.com/0/746/022.htm) |
-| 7 | [华为余承东：有底座有生态才是真正的操作系统，鸿蒙有核心技术及全栈能力](https://www.ithome.com/0/745/982.htm) |
-| 8 | [鸿蒙原生 App 年底突破 5000 款，华为宣布鸿蒙生态将进入第二阶段](https://www.ithome.com/0/745/991.htm) |
-| 9 | [小米磁吸充电宝 2 开启众筹：适配苹果 iPhone 15，售价 219 元](https://www.ithome.com/0/746/068.htm) |
-| 10 | [华为：首批 200 + 鸿蒙原生应用正加速开发，38 万以上开发者通过鸿蒙认证](https://www.ithome.com/0/745/984.htm) |
-| 11 | [三星 Galaxy S24 Ultra 手机 100 倍变焦实测，相比 S23 Ultra 并无改进](https://www.ithome.com/0/746/029.htm) |
-| 12 | [华为开发者联盟：60 余家游戏伙伴已加入鸿蒙生态，超 70 款游戏完成原生应用开发](https://www.ithome.com/0/746/064.htm) |
+| 3 | [支付宝时隔 4 年 Logo 再次换新：砍掉外框和文字，引入立体自然光](https://www.ithome.com/0/746/112.htm) |
+| 4 | [华为 HarmonyOS NEXT 开发者预览版官方页面上线，关键开发特性公布](https://www.ithome.com/0/746/015.htm) |
+| 5 | [花 2888 元买火箭发射内场票被带到周边房顶，海南文昌通报立案](https://www.ithome.com/0/746/022.htm) |
+| 6 | [小米磁吸充电宝 2 开启众筹：适配苹果 iPhone 15，售价 219 元](https://www.ithome.com/0/746/068.htm) |
+| 7 | [三星 Galaxy S24 Ultra 手机 100 倍变焦实测，相比 S23 Ultra 并无改进](https://www.ithome.com/0/746/029.htm) |
+| 8 | [华为开发者联盟：60 余家游戏伙伴已加入鸿蒙生态，超 70 款游戏完成原生应用开发](https://www.ithome.com/0/746/064.htm) |
+| 9 | [中国建设银行首批适配华为 HarmonyOS NEXT，已完成手机银行 Beta 版本](https://www.ithome.com/0/746/108.htm) |
+| 10 | [《完蛋！我被美女包围了！》DLC“房间里的心跳”上线 Steam，2 月发售](https://www.ithome.com/0/746/132.htm) |
+| 11 | [我国探获锂资源近百万吨，为亚洲迄今探明最大规模伟晶岩型单体锂矿](https://www.ithome.com/0/746/046.htm) |
+| 12 | [消息称苹果 iPhone 16 系列新增拍照按钮：机械设计，可调整焦距](https://www.ithome.com/0/746/114.htm) |
