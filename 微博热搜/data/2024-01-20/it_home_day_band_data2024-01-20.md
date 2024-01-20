@@ -1,4 +1,4 @@
-#### 2024-01-20_20-00  IT之家日榜
+#### 2024-01-20_21-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -12,5 +12,5 @@
 | 8 | [更新：最高 720P，苹果 Vision Pro 支持隔空播放：佩戴者可向他人展示头显内容](https://www.ithome.com/0/746/282.htm) |
 | 9 | [网易回应大规模裁员传闻：消息不实，系正常业务调整和人员流动](https://www.ithome.com/0/746/268.htm) |
 | 10 | [微软放水？管理员反馈 CPU 不符合升级条件设备成功升至 Win11](https://www.ithome.com/0/746/330.htm) |
-| 11 | [新 LOGO 亮相，HMD Global “去诺基亚”后首款新机渲染图曝光](https://www.ithome.com/0/746/311.htm) |
-| 12 | [数字人民币 App 将启动适配华为 Harmony OS NEXT 计划，完成鸿蒙原子应用改造](https://www.ithome.com/0/746/336.htm) |
+| 11 | [数字人民币 App 将启动适配华为 Harmony OS NEXT 计划，完成鸿蒙原子应用改造](https://www.ithome.com/0/746/336.htm) |
+| 12 | [新 LOGO 亮相，HMD Global “去诺基亚”后首款新机渲染图曝光](https://www.ithome.com/0/746/311.htm) |
