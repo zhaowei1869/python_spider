@@ -1,4 +1,4 @@
-#### 2024-01-21_17-00  IT之家日榜
+#### 2024-01-21_18-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -9,8 +9,8 @@
 | 5 | [苹果 12.9 英寸 iPad Air 渲染图曝光，消息称预计今年 3 月发布](https://www.ithome.com/0/746/375.htm) |
 | 6 | [华为余承东：问界新 M7 车型发布 4 个月大定已超 13 万辆](https://www.ithome.com/0/746/378.htm) |
 | 7 | [梅赛德斯-奔驰 G 500 典藏版车型上市：中国限量 198 台，售价 239 万元](https://www.ithome.com/0/746/367.htm) |
-| 8 | [广东永奥集团声明：经营遭遇危机，采取措施积极自救 / 确保车辆交付](https://www.ithome.com/0/746/354.htm) |
-| 9 | [坦克 500 车主恶意维权：发视频堵门拉条幅、辱骂长城汽车，被判赔偿 15 万元](https://www.ithome.com/0/746/394.htm) |
+| 8 | [坦克 500 车主恶意维权：发视频堵门拉条幅、辱骂长城汽车，被判赔偿 15 万元](https://www.ithome.com/0/746/394.htm) |
+| 9 | [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://www.ithome.com/0/746/400.htm) |
 | 10 | [Midjourney V6 超进化，大神网友深度评测来了！画质逼真到可怕，人像图片令人惊呆](https://www.ithome.com/0/746/372.htm) |
-| 11 | [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://www.ithome.com/0/746/400.htm) |
-| 12 | [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://www.ithome.com/0/746/393.htm) |
+| 11 | [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://www.ithome.com/0/746/393.htm) |
+| 12 | [别克昂科威 Plus 新款车型亮相：前脸换最新设计，车内配弧面双联屏](https://www.ithome.com/0/746/380.htm) |
