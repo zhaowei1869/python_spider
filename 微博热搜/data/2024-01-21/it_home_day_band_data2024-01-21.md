@@ -1,16 +1,16 @@
-#### 2024-01-21_19-00  IT之家日榜
+#### 2024-01-21_20-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [微星就“删男友游戏”相关言论致歉：已停止相关运营团队一切工作并作更换](https://www.ithome.com/0/746/388.htm) |
-| 2 | [爱奇艺和腾讯视频盈利了，只有优酷没赶上](https://www.ithome.com/0/746/370.htm) |
-| 3 | [小米新款平板通过国家质量认证：支持 120W 快充，消息称为小米平板 7 系列](https://www.ithome.com/0/746/369.htm) |
-| 4 | [苹果 12.9 英寸 iPad Air 渲染图曝光，消息称预计今年 3 月发布](https://www.ithome.com/0/746/375.htm) |
-| 5 | [消息称黄仁勋已到访英伟达北京、上海、深圳办公室，参加中国区年会](https://www.ithome.com/0/746/374.htm) |
-| 6 | [华为余承东：问界新 M7 车型发布 4 个月大定已超 13 万辆](https://www.ithome.com/0/746/378.htm) |
-| 7 | [梅赛德斯-奔驰 G 500 典藏版车型上市：中国限量 198 台，售价 239 万元](https://www.ithome.com/0/746/367.htm) |
-| 8 | [坦克 500 车主恶意维权：发视频堵门拉条幅、辱骂长城汽车，被判赔偿 15 万元](https://www.ithome.com/0/746/394.htm) |
-| 9 | [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://www.ithome.com/0/746/400.htm) |
-| 10 | [Midjourney V6 超进化，大神网友深度评测来了！画质逼真到可怕，人像图片令人惊呆](https://www.ithome.com/0/746/372.htm) |
-| 11 | [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://www.ithome.com/0/746/393.htm) |
-| 12 | [别克昂科威 Plus 新款车型亮相：前脸换最新设计，车内配弧面双联屏](https://www.ithome.com/0/746/380.htm) |
+| 2 | [苹果 12.9 英寸 iPad Air 渲染图曝光，消息称预计今年 3 月发布](https://www.ithome.com/0/746/375.htm) |
+| 3 | [消息称黄仁勋已到访英伟达北京、上海、深圳办公室，参加中国区年会](https://www.ithome.com/0/746/374.htm) |
+| 4 | [华为余承东：问界新 M7 车型发布 4 个月大定已超 13 万辆](https://www.ithome.com/0/746/378.htm) |
+| 5 | [坦克 500 车主恶意维权：发视频堵门拉条幅、辱骂长城汽车，被判赔偿 15 万元](https://www.ithome.com/0/746/394.htm) |
+| 6 | [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://www.ithome.com/0/746/400.htm) |
+| 7 | [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://www.ithome.com/0/746/393.htm) |
+| 8 | [别克昂科威 Plus 新款车型亮相：前脸换最新设计，车内配弧面双联屏](https://www.ithome.com/0/746/380.htm) |
+| 9 | [Sensor Tower：《大富翁 GO》超越《王者荣耀》，成 2023 年 12 月全球手游收入冠军](https://www.ithome.com/0/746/383.htm) |
+| 10 | [消息称华为 P70 系列手机有望 3 月发布，目前进度很快](https://www.ithome.com/0/746/446.htm) |
+| 11 | [小鹏汽车回应“续保”问题：目前全系均可正常办理保险业务](https://www.ithome.com/0/746/377.htm) |
+| 12 | [苹果 Vision Pro 头显目前约有 230 个原生应用， Office 等大量应用截图出炉](https://www.ithome.com/0/746/429.htm) |
