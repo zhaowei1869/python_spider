@@ -1,16 +1,4 @@
-#### 2024-01-21_22-00  IT之家日榜
+#### 2024-01-21_23-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [微星就“删男友游戏”相关言论致歉：已停止相关运营团队一切工作并作更换](https://www.ithome.com/0/746/388.htm) |
-| 2 | [坦克 500 车主恶意维权：发视频堵门拉条幅、辱骂长城汽车，被判赔偿 15 万元](https://www.ithome.com/0/746/394.htm) |
-| 3 | [白剑称蔚来 NIO Phone 是唯一支持单手截屏的手机被群嘲，微博发文致歉](https://www.ithome.com/0/746/400.htm) |
-| 4 | [苹果官网上架 OtterBox Lumen 龙年款手机壳，适用于 iPhone 15 系列售 498 元](https://www.ithome.com/0/746/393.htm) |
-| 5 | [消息称华为 P70 系列手机有望 3 月发布，目前进度很快](https://www.ithome.com/0/746/446.htm) |
-| 6 | [上线仅 2 天！《幻兽帕鲁》Steam 在线峰值破百万，超越《博德之门 3》《霍格沃茨之遗》](https://www.ithome.com/0/746/437.htm) |
-| 7 | [Sensor Tower：《大富翁 GO》超越《王者荣耀》，成 2023 年 12 月全球手游收入冠军](https://www.ithome.com/0/746/383.htm) |
-| 8 | [苹果 Vision Pro 头显目前约有 230 个原生应用， Office 等大量应用截图出炉](https://www.ithome.com/0/746/429.htm) |
-| 9 | [三星 Galaxy S24 Ultra 手机隐藏卖点：超强防反光涂层吊打竞品](https://www.ithome.com/0/746/451.htm) |
-| 10 | [中国铁路：近 1200 组复兴号高速列车投入运用，累计运送旅客已超 22 亿人次](https://www.ithome.com/0/746/384.htm) |
-| 11 | [微信 Windows 3.9.9 版本更新：视频通话体验优化](https://www.ithome.com/0/746/421.htm) |
-| 12 | [12+256G 版仅 3649 元：红魔 8S Pro 手机年货节 6 期免息新低](https://www.ithome.com/0/746/423.htm) |
