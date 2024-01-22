@@ -1,4 +1,4 @@
-#### 2024-01-22_12-00  IT之家日榜
+#### 2024-01-22_13-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -13,4 +13,4 @@
 | 9 | [苹果 Vision Pro 头显目前约有 230 个原生应用， Office 等大量应用截图出炉](https://www.ithome.com/0/746/429.htm) |
 | 10 | [小米推出米家 616L 对开门冰箱：风冷无霜 + 一级能效，到手价 2399 元](https://www.ithome.com/0/746/475.htm) |
 | 11 | [苹果 2024 款 iPad Air、iPad Pro 和 MacBook Air 爆料汇总，预计 3/4 月发布](https://www.ithome.com/0/746/482.htm) |
-| 12 | [三星 Galaxy S24 Ultra 手机续航测试：以小幅优势领先苹果 iPhone 15 Pro Max](https://www.ithome.com/0/746/445.htm) |
+| 12 | [高通骁龙 8 Gen 4 QRD 工程机曝光：1080p 稳定运行《原神》45 分钟](https://www.ithome.com/0/746/497.htm) |
