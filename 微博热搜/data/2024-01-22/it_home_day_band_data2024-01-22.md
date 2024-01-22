@@ -1,12 +1,12 @@
-#### 2024-01-22_13-00  IT之家日榜
+#### 2024-01-22_14-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
 | 1 | [穿大花背心扭秧歌视频曝光！黄仁勋参加英伟达中国区年会，抽奖幸运儿名叫“华为”](https://www.ithome.com/0/746/480.htm) |
 | 2 | [消息称华为 P70 系列手机有望 3 月发布，目前进度很快](https://www.ithome.com/0/746/446.htm) |
 | 3 | [国产 C919 大飞机已拿下 1200 多架订单，形成大飞机产业链](https://www.ithome.com/0/746/470.htm) |
-| 4 | [上线仅 2 天！《幻兽帕鲁》Steam 在线峰值破百万，超越《博德之门 3》《霍格沃茨之遗》](https://www.ithome.com/0/746/437.htm) |
-| 5 | [《幻兽帕鲁》口碑分化：Steam 在线人数超百万，XGP 版本仅有 1.8 评分](https://www.ithome.com/0/746/466.htm) |
+| 4 | [《幻兽帕鲁》口碑分化：Steam 在线人数超百万，XGP 版本仅有 1.8 评分](https://www.ithome.com/0/746/466.htm) |
+| 5 | [上线仅 2 天！《幻兽帕鲁》Steam 在线峰值破百万，超越《博德之门 3》《霍格沃茨之遗》](https://www.ithome.com/0/746/437.htm) |
 | 6 | [三星 Galaxy S24 Ultra 手机存储速度比 iPhone 15 Pro Max 快 75%，延迟更低](https://www.ithome.com/0/746/462.htm) |
 | 7 | [《幻兽帕鲁》服务器再次宕机，开发商致歉](https://www.ithome.com/0/746/476.htm) |
 | 8 | [三星 Galaxy S24 Ultra 手机隐藏卖点：超强防反光涂层吊打竞品](https://www.ithome.com/0/746/451.htm) |
