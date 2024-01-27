@@ -1,16 +1,16 @@
-#### 2024-01-27_12-00  IT之家日榜
+#### 2024-01-27_13-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
-| 1 | [苹果 CarPlay 2.0 新截图曝光：新增 8 款应用、引入“再见”屏幕、丰富配色选择](https://www.ithome.com/0/747/394.htm) |
-| 2 | [华为 Mate 60 手机成功模拟测试卫星互联网，中国移动“星元系统”下行速率 5Mbps](https://www.ithome.com/0/747/489.htm) |
-| 3 | [霉霉再成 Deepfake 受害者，AI“不雅照”被疯狂传播，粉丝网友全都怒了](https://www.ithome.com/0/747/520.htm) |
-| 4 | [苹果 2024 春节短片《小蒜头》官宣：范伟主演，iPhone 15 Pro Max 拍摄](https://www.ithome.com/0/747/392.htm) |
-| 5 | [微信安卓版 8.0.46 最新官方正式版更新内容汇总：变瘦了也变秀了](https://www.ithome.com/0/747/400.htm) |
-| 6 | [贝锐向日葵远程崩了，官方称“小部分免费用户异常”已在紧急修复](https://www.ithome.com/0/747/457.htm) |
-| 7 | [华为 P70 系列手机影像参数曝光，4X 潜望长焦微距镜头](https://www.ithome.com/0/747/475.htm) |
-| 8 | [保时捷汽车官宣奥运冠军谷爱凌为全球代言人](https://www.ithome.com/0/747/450.htm) |
-| 9 | [华为全能充电器（Max 100W）上架官网，USB-A / C 融合端口](https://www.ithome.com/0/747/494.htm) |
-| 10 | [第三方苹果 iOS 应用商店 AltStore 宣布启动“合法化”进程：欧洲朋友们三月见](https://www.ithome.com/0/747/503.htm) |
-| 11 | [少 4 个 E 核性能依然能打，中国大陆特供版英特尔酷睿 i7-14790F 处理器跑分曝光](https://www.ithome.com/0/747/454.htm) |
-| 12 | [消息称小米汽车北京首家 2S 店落地博瑞汽车园，原为东风日产 4S 店](https://www.ithome.com/0/747/430.htm) |
+| 1 | [霉霉再成 Deepfake 受害者，AI“不雅照”被疯狂传播，粉丝网友全都怒了](https://www.ithome.com/0/747/520.htm) |
+| 2 | [苹果 CarPlay 2.0 新截图曝光：新增 8 款应用、引入“再见”屏幕、丰富配色选择](https://www.ithome.com/0/747/394.htm) |
+| 3 | [华为 Mate 60 手机成功模拟测试卫星互联网，中国移动“星元系统”下行速率 5Mbps](https://www.ithome.com/0/747/489.htm) |
+| 4 | [微信安卓版 8.0.46 最新官方正式版更新内容汇总：变瘦了也变秀了](https://www.ithome.com/0/747/400.htm) |
+| 5 | [贝锐向日葵远程崩了，官方称“小部分免费用户异常”已在紧急修复](https://www.ithome.com/0/747/457.htm) |
+| 6 | [华为 P70 系列手机影像参数曝光，4X 潜望长焦微距镜头](https://www.ithome.com/0/747/475.htm) |
+| 7 | [保时捷汽车官宣奥运冠军谷爱凌为全球代言人](https://www.ithome.com/0/747/450.htm) |
+| 8 | [华为全能充电器（Max 100W）上架官网，USB-A / C 融合端口](https://www.ithome.com/0/747/494.htm) |
+| 9 | [第三方苹果 iOS 应用商店 AltStore 宣布启动“合法化”进程：欧洲朋友们三月见](https://www.ithome.com/0/747/503.htm) |
+| 10 | [少 4 个 E 核性能依然能打，中国大陆特供版英特尔酷睿 i7-14790F 处理器跑分曝光](https://www.ithome.com/0/747/454.htm) |
+| 11 | [消息称小米汽车北京首家 2S 店落地博瑞汽车园，原为东风日产 4S 店](https://www.ithome.com/0/747/430.htm) |
+| 12 | [Canalys：2023 年 Q4 中国大陆智能手机出货 7390 万台，华为增 47% 回归前四](https://www.ithome.com/0/747/449.htm) |
