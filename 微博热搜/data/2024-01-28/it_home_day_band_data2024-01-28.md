@@ -1,4 +1,4 @@
-#### 2024-01-28_11-00  IT之家日榜
+#### 2024-01-28_12-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -6,11 +6,11 @@
 | 2 | [80 家店一夜关闭，2024 年第一颗雷，砸向 4S 店](https://www.ithome.com/0/747/556.htm) |
 | 3 | [雷军分享小米 SU7 车型黑河冬测视频，展示漂移过弯](https://www.ithome.com/0/747/593.htm) |
 | 4 | [小米新款平板曝光：12.45 英寸 LCD 屏，骁龙 8 Gen 2 处理器](https://www.ithome.com/0/747/575.htm) |
-| 5 | [移除古老“立即安装”界面，微软优化 Win11 装机体验](https://www.ithome.com/0/747/570.htm) |
-| 6 | [任天堂下一代 Switch 掌机爆料：今年推出 8 英寸 LCD 屏幕版本，年产有望达到 1000 万台](https://www.ithome.com/0/747/609.htm) |
+| 5 | [任天堂下一代 Switch 掌机爆料：今年推出 8 英寸 LCD 屏幕版本，年产有望达到 1000 万台](https://www.ithome.com/0/747/609.htm) |
+| 6 | [移除古老“立即安装”界面，微软优化 Win11 装机体验](https://www.ithome.com/0/747/570.htm) |
 | 7 | [京东集团原副总裁，蔡磊夫妇捐助 1 亿元攻克渐冻症](https://www.ithome.com/0/747/567.htm) |
 | 8 | [外媒统计有史以来最畅销的手机：诺基亚、苹果包揽 TOP10](https://www.ithome.com/0/747/613.htm) |
 | 9 | [Wi-Fi 7 全面落地，短距离通信市场有望爆发](https://www.ithome.com/0/747/561.htm) |
 | 10 | [消息称 vivo X100 Pro + 手机 Q2 发布，新款折叠屏 3 月登场](https://www.ithome.com/0/747/595.htm) |
 | 11 | [荣耀 80GT 手机推送 MagicOS 7.0.0.220 系统更新：新增荣耀全家桶](https://www.ithome.com/0/747/597.htm) |
-| 12 | [国产大飞机 C919 春运首秀“成绩单”来了：顺利执行 10 个航班，承运 1274 名旅客](https://www.ithome.com/0/747/591.htm) |
+| 12 | [中国超算如何躲开日本的坑？](https://www.ithome.com/0/747/615.htm) |
