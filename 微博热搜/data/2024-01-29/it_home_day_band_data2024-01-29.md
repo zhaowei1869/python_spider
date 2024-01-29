@@ -1,4 +1,4 @@
-#### 2024-01-29_11-00  IT之家日榜
+#### 2024-01-29_12-00  IT之家日榜
 
 | 排名 | 标题|
 | --- | ---|
@@ -12,5 +12,5 @@
 | 8 | [手机屏幕亮度大战升级，峰值亮度只是营销噱头](https://www.ithome.com/0/747/718.htm) |
 | 9 | [中国老板在泰国](https://www.ithome.com/0/747/661.htm) |
 | 10 | [马斯克的神秘新飞机：SpaceX 买下国航波音 737，用途成谜](https://www.ithome.com/0/747/696.htm) |
-| 11 | [美国如何用鸽子搞暗杀？有网友把这个脑洞做出来了](https://www.ithome.com/0/747/665.htm) |
-| 12 | [古尔曼：2024 款苹果 iPad Pro 和 M3 MacBook Air 已投产，将于 3 月底发布](https://www.ithome.com/0/747/720.htm) |
+| 11 | [古尔曼：2024 款苹果 iPad Pro 和 M3 MacBook Air 已投产，将于 3 月底发布](https://www.ithome.com/0/747/720.htm) |
+| 12 | [美国如何用鸽子搞暗杀？有网友把这个脑洞做出来了](https://www.ithome.com/0/747/665.htm) |
